@@ -326,11 +326,17 @@ Today we continue on with Matrix Multiplication, thinking through a few key exam
 
 Today we are going to make the transition from the dot product to matrix multiplication (both on the board and in code). To do that we will have a look at the following resources:
 
+**Start with Linear Algebra Fundamentals** *(button in the original; link to be re-added)*
+
 If you are looking for python and jupyter tutorials, have a look at these notebooks (they are drafts, so please let me know if you find any errors).
+
+**Go to Google Drive** *(button in the original; link to be re-added)*
 
 # October 8 and 10:
 
 Here is what we discussed today! Have fun creating the functions for both dot product and scalar multiplication! We will go through these on Friday and Tuesday. Note: sometimes the simplest thing you can do is the right thing! No need to over-complicate :)
+
+**Open hyperlink** *(button in the original; link to be re-added)*
 
 # Tuesday October 7th:
 
@@ -424,6 +430,9 @@ Challenge 2:
 
 Have a look at the following worksheet, I hope to have a printed version for you tomorrow but just in case here is the digital backup!
 
+![[Exploratory_Worksheets.pdf]]
+[Download Exploratory_Worksheets.pdf](/assets/Exploratory_Worksheets.pdf)
+
 Today we will discuss Khan Academy, the plan for the year, as well as this worksheet.
 
 ## Plan for this year
@@ -454,17 +463,23 @@ The goal is to see where you fall, where your gaps are and where you struggle. I
 
 NOTE: You do not need a calculator for the first 3 tests (not sure about the 4th-6th)
 
+**[Start with the Mathematics Australia Pre-Algebra Assessment](https://mathsaustralia.com.au/placement-tests/placement-tests/)**
+
 The source for that link was [here (just in case it doesn’t work for you)](https://mathsaustralia.com.au/placement-tests/placement-tests/). Click on the left option if you feel like you really struggled with math, and the right if you think you have some maths knowledge under your belt and want to see how far you can go.
 
 ### When you are done with the first test, go on to the next one! :) Keep going as long as you can! :)
 
 If you do not like how that test is structured and would like a more general test, check out this one from Monroe College
 
+**[College Maths Self Assessment](https://www.monroeu.edu/sites/default/files/documents/2020/01/31/placementexamreview.pdf)**
+
 ## After you complete your assessment:
 
 When you are done, go ahead and sign up for Khan Academy using this link:
 
 Please sign up with your college email.
+
+**Sign Up for Khan Academy with your College Email** *(button in the original; link to be re-added)*
 
 When you have done this, please let me know and we can discuss your maths needs and goals as well as where we can go from here.
 
@@ -495,11 +510,6 @@ An [Oxford Assessment](https://www.maths.ox.ac.uk/study-here/undergraduate-study
 - Wolfram Alpha
 
 - Desmos
-
-## Files
-
-![[Exploratory_Worksheets.pdf]]
-[Download Exploratory_Worksheets.pdf](/assets/Exploratory_Worksheets.pdf)
 
 ## Pages in this section
 

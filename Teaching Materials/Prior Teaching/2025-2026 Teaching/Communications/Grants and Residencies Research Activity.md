@@ -286,8 +286,3 @@ This is not assessed on:
 **Ask Working Artists:** The best information often comes from artists who've actually been through the process. If you know someone who's held a grant or residency, ask them about the experience—especially the parts that weren't in the official description.
 
 **Timeline Awareness:** Many major grants have annual deadlines (often Jan-March). If you find something perfect but the deadline was last month, save it for next year and start preparing now.
-
-## Files
-
-![[Communications_L6.pdf]]
-[Download Communications_L6.pdf](/assets/Communications_L6.pdf)

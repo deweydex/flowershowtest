@@ -35,6 +35,9 @@ Sqlite practice
 
 # Assignment Brief:
 
+![[WAAssignment1 2024.pdf]]
+[Download WAAssignment1 2024.pdf](/assets/WAAssignment1%202024.pdf)
+
 > [!note]
 >
 

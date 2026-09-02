@@ -30,8 +30,3 @@ Sometimes the biggest challenges we face are physical, feeling tired, or unfocus
 You are welcome (encouraged even!) to send me your plans (or show me in person) and discuss them with me in class. If you are looking for resources or confused about how to take the next step, or even just unsure about what a useful and realistic goal is, I am here, and feel free to ask a friend about their plan or include them in it as a source of feedback or to check your knowledge.
 
 As always, questions and comments and suggestions are welcome! If some part of the above isn't clear or doesn't make sense, maybe I can fix it to make it better or easier! Good luck!
-
-## Files
-
-![[WAAssignment1 2024.pdf]]
-[Download WAAssignment1 2024.pdf](/assets/WAAssignment1%202024.pdf)

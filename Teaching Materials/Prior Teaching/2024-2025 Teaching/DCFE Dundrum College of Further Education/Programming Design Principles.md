@@ -14,6 +14,8 @@ Any other reflections, areas you would like to improve or areas that you think w
 
 # Skills Demo 1
 
+[Programming Design Principles Skills Demo.ipynb](/assets/Programming%20Design%20Principles%20Skills%20Demo.ipynb)
+
 # Skills Demo 2
 
 On Moodle or [Link to Colab](https://colab.research.google.com/drive/1iBUbw2NYNO0Bbia-nQDao69S0tF16huu?usp=sharing)
@@ -21,6 +23,16 @@ On Moodle or [Link to Colab](https://colab.research.google.com/drive/1iBUbw2NYNO
 # Practice Problems for Python:
 
 Some practice problems for your python adventures—solutions will be provided as I make them, if there are any errors or issues please let me know! :)
+
+[practice-problems-1.py](/assets/practice-problems-1.py)
+[practice-problems-1-solutions.py](/assets/practice-problems-1-solutions.py)
+[practice-problems-2.py](/assets/practice-problems-2.py)
+[practice-problems-3.py](/assets/practice-problems-3.py)
+[practice-problems-4.py](/assets/practice-problems-4.py)
+[practice-problems-other.py](/assets/practice-problems-other.py)
+[practice-problems-5.py](/assets/practice-problems-5.py)
+[practice-problems-6.py](/assets/practice-problems-6.py)
+[practice-problems-7.py](/assets/practice-problems-7.py)
 
 # Khan Academy Class (Optional but Recommended): [https://www.khanacademy.org/join/MAR9BPAP](https://www.khanacademy.org/join/MAR9BPAP)
 
@@ -61,25 +73,3 @@ Hey there, future game developers! 😄 In this informal assignment, you'll be c
 - **Enable User Interaction:** You are welcome to just have the user interact with the functions that allow users to interact with the map. This could include moving to different points, examining locations, or other interactive elements. Consider what data structures will make user interactions efficient and intuitive.
 
 Remember, if you need help with loops, classes, or Python function definitions, I'm here to assist you. Let's create something amazing together! 🚀
-
-## Files
-
-- [Programming Design Principles Skills Demo.ipynb](/assets/Programming%20Design%20Principles%20Skills%20Demo.ipynb)
-
-- [practice-problems-1.py](/assets/practice-problems-1.py)
-
-- [practice-problems-1-solutions.py](/assets/practice-problems-1-solutions.py)
-
-- [practice-problems-2.py](/assets/practice-problems-2.py)
-
-- [practice-problems-3.py](/assets/practice-problems-3.py)
-
-- [practice-problems-4.py](/assets/practice-problems-4.py)
-
-- [practice-problems-other.py](/assets/practice-problems-other.py)
-
-- [practice-problems-5.py](/assets/practice-problems-5.py)
-
-- [practice-problems-6.py](/assets/practice-problems-6.py)
-
-- [practice-problems-7.py](/assets/practice-problems-7.py)

@@ -4,6 +4,8 @@ title: "Somewhat-Traditional Worksheets"
 
 # All Sheets as a Zip File
 
+The sheets themselves are kept in the GitHub repository [deweydex/Mathematics](https://github.com/deweydex/Mathematics).
+
 Sheets:
 
 Solutions:

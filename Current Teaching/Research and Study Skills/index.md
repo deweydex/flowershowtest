@@ -236,7 +236,10 @@ Some FAQ:
    1. a reflection documenting your process including discussion of your sources and challenges/joys of the process
 
       1. to help with this you my use some resources that we will discuss today and after break including the Resource Evaluation Guide which we will discuss today and in Nov.
-Link if file below doesn’t work: [Source_Evaluation_Guide.docx](https://etbddl-my.sharepoint.com/:w:/g/personal/joshuaaaron_dcfe_ie/ER3msCGtqo1AqXugV1JFUPwBbx34sLW_lUiPVl0K8EKjIw?e=y7rG8s)
+
+[Source_Evaluation_Guide_unfilled.docx](/assets/Source_Evaluation_Guide_unfilled.docx)
+
+Link if file below doesn’t work: [[Source_Evaluation_Guide.docx](/assets/Source_Evaluation_Guide.docx)](https://etbddl-my.sharepoint.com/:w:/g/personal/joshuaaaron_dcfe_ie/ER3msCGtqo1AqXugV1JFUPwBbx34sLW_lUiPVl0K8EKjIw?e=y7rG8s)
 
       1. you are welcome to reflect upon your process in a variety of ways or using a variety of media (we will discuss this more in nov.)
 
@@ -246,7 +249,7 @@ Link if file below doesn’t work: [Source_Evaluation_Guide.docx](https://etbddl
 
 Today (briefly) Resource Exercise part 1:
 
-Link if file below doesn’t work: [Source_Evaluation_Guide.docx](https://etbddl-my.sharepoint.com/:w:/g/personal/joshuaaaron_dcfe_ie/ER3msCGtqo1AqXugV1JFUPwBbx34sLW_lUiPVl0K8EKjIw?e=y7rG8s)
+Link if file below doesn’t work: [[Source_Evaluation_Guide.docx](/assets/Source_Evaluation_Guide.docx)](https://etbddl-my.sharepoint.com/:w:/g/personal/joshuaaaron_dcfe_ie/ER3msCGtqo1AqXugV1JFUPwBbx34sLW_lUiPVl0K8EKjIw?e=y7rG8s)
 
 ## Source Evaluation Guide
 
@@ -478,11 +481,8 @@ After you have answered those questions, please write a 150-250 word reflection 
 
 More for bookkeeping than anything, but figure you might be interested to get an overview.
 
-## Files
-
-- [Source_Evaluation_Guide.docx](/assets/Source_Evaluation_Guide.docx)
-
-- [Source_Evaluation_Guide_unfilled.docx](/assets/Source_Evaluation_Guide_unfilled.docx)
+![[ResearchAndStudySkills5N3113 v2 May 2014.pdf]]
+[Download ResearchAndStudySkills5N3113 v2 May 2014.pdf](/assets/ResearchAndStudySkills5N3113%20v2%20May%202014.pdf)
 
 ## Pages in this section
 

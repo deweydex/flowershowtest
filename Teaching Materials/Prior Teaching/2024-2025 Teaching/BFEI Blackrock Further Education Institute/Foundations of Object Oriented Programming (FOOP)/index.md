@@ -5,11 +5,18 @@ description: "Everybody FOOPs"
 
 # Mock Exam 1 (with extra practice in last section):
 
+[Foop Mock Exam Csharp With Answers.ipynb](/assets/Foop%20Mock%20Exam%20Csharp%20With%20Answers.ipynb)
+[Foop Mock Exam CSharp Empty.ipynb](/assets/Foop%20Mock%20Exam%20CSharp%20Empty.ipynb)
+
 # Mock Exam 2 (semi-empty)
+
+[fantasy-notebook.ipynb](/assets/fantasy-notebook.ipynb)
 
 # January Practice
 
 Please download the following and submit online if you would like to receive any feedback!
+
+[January Practice.ipynb](/assets/January%20Practice.ipynb)
 
 # March Practice
 
@@ -22,16 +29,6 @@ Please download the following and submit online if you would like to receive any
 # Practice Problems
 
 So many Problems in both python and C#!
-
-## Files
-
-- [Foop Mock Exam Csharp With Answers.ipynb](/assets/Foop%20Mock%20Exam%20Csharp%20With%20Answers.ipynb)
-
-- [Foop Mock Exam CSharp Empty.ipynb](/assets/Foop%20Mock%20Exam%20CSharp%20Empty.ipynb)
-
-- [fantasy-notebook.ipynb](/assets/fantasy-notebook.ipynb)
-
-- [January Practice.ipynb](/assets/January%20Practice.ipynb)
 
 ## Pages in this section
 

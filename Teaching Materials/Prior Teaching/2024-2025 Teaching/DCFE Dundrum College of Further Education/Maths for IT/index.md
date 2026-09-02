@@ -189,9 +189,15 @@ Quadratics and Linear Equation Practice
 
 ## November 15: Transformations of Functions Practice Starting UPDATED Nov. 19!
 
+![[transformations_on_linear_and_quadratic_equations.pdf]]
+[Download transformations_on_linear_and_quadratic_equations.pdf](/assets/transformations_on_linear_and_quadratic_equations.pdf)
+
 Transformations: Translations, Reflections Scaling (No rotations for now)
 
 ## November 8: Quadratic (Polynomial) Practice
+
+![[polynomial_practice.pdf]]
+[Download polynomial_practice.pdf](/assets/polynomial_practice.pdf)
 
 ## October 22: Linear Equations Practice
 
@@ -278,14 +284,6 @@ Today, as usual, we have a couple options of the work we will do today.
 1. If you would prefer to work on eomsething else more independently, you can work on Khan Academy (the class code [can be found here](https://www.khanacademy.org/join/BDBED472) if you choose to make an account, but you don’t need one to do exercises) or another resource that you have discussed with me.
 
 [https://coda.io/d/_dXwmZI3vjrc/_sunh2VWC](https://coda.io/d/_dXwmZI3vjrc/_sunh2VWC)
-
-## Files
-
-![[transformations_on_linear_and_quadratic_equations.pdf]]
-[Download transformations_on_linear_and_quadratic_equations.pdf](/assets/transformations_on_linear_and_quadratic_equations.pdf)
-
-![[polynomial_practice.pdf]]
-[Download polynomial_practice.pdf](/assets/polynomial_practice.pdf)
 
 ## Pages in this section
 

@@ -299,6 +299,8 @@ There are three tools we will look at:
 
 We will be looking at the following jupyter notebook today:
 
+[Week1_DeveloperProfile.ipynb](/assets/Week1_DeveloperProfile.ipynb)
+
 You can also find it on colab here
 
 ## Planning for the next few weeks:
@@ -398,10 +400,6 @@ Please fill out the following form. Note, the more you type, the better I can un
 ## Our Module Descriptor
 
 More for bookkeeping than anything, but figure you might be interested to get an overview.
-
-## Files
-
-- [Week1_DeveloperProfile.ipynb](/assets/Week1_DeveloperProfile.ipynb)
 
 ![[PersonalProfessionalDevelopment6N1949.pdf]]
 [Download PersonalProfessionalDevelopment6N1949.pdf](/assets/PersonalProfessionalDevelopment6N1949.pdf)

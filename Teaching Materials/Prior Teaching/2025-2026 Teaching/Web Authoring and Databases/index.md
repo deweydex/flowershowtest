@@ -169,6 +169,9 @@ be sure to check out the github lessons to go through how to make your website v
 
 First Assignment Release: Due (tentatively) December 10.
 
+![[WA_Assignment1_Level5.pdf]]
+[Download WA_Assignment1_Level5.pdf](/assets/WA_Assignment1_Level5.pdf)
+
 Today we will discuss the brief and get working on setting up our repository and planning your website. You are welcome to use any and all resources that we have referenced below. If you would like to use other resources or documentation, please let me know before doing so.
 
 # Week of October 27
@@ -205,11 +208,13 @@ Today we will go through the basics of Github and figure out how to correct a pi
 
 See if you can make a simple webpage using a tax simulator without using any external resources.
 
+[tax_simulation_real-2.html.zip](/assets/tax_simulation_real-2.html.zip)
+
 See if you can edit the file to create a personal website. What colours would you change? What sizes and fonts?
 
 ## Closed Version (Less freedom, more steps, less background required)
 
-Download the following zip file  and open the Readme and QuickStart guides—see if you can do the following:
+Download the following zip file [Break and Make a Website.zip](/assets/Break%20and%20Make%20a%20Website.zip) and open the Readme and QuickStart guides—see if you can do the following:
 
 1. Open the HTML file in a browser
 
@@ -231,7 +236,11 @@ Can you create a personal web page? How does the CMS work?
 
 [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)—we will discuss how to do this off line.
 
+[tax_simulation_real-2.html.zip](/assets/tax_simulation_real-2.html.zip)
+
 # SQLite tutorial
+
+[sqlite_tutorial.ipynb](/assets/sqlite_tutorial.ipynb)
 
 # Wednesday Oct 1:
 
@@ -367,20 +376,8 @@ Tasks for today:
 
 ## Module Descriptors:
 
-## Files
-
-![[WA_Assignment1_Level5.pdf]]
-[Download WA_Assignment1_Level5.pdf](/assets/WA_Assignment1_Level5.pdf)
-
-- [tax_simulation_real-2.html.zip](/assets/tax_simulation_real-2.html.zip)
-
-- [Break and Make a Website.zip](/assets/Break%20and%20Make%20a%20Website.zip)
-
-- [sqlite_tutorial.ipynb](/assets/sqlite_tutorial.ipynb)
-
 ![[WebAuthoring5N1910 v2 2013.pdf]]
 [Download WebAuthoring5N1910 v2 2013.pdf](/assets/WebAuthoring5N1910%20v2%202013.pdf)
-
 ![[DatabaseMethods5N0783 v2 Oct 2014.pdf]]
 [Download DatabaseMethods5N0783 v2 Oct 2014.pdf](/assets/DatabaseMethods5N0783%20v2%20Oct%202014.pdf)
 

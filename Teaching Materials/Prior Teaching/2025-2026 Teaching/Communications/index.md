@@ -105,7 +105,7 @@ Today we will be investigating some funding, learning and travel opportunities a
 
 - Communicating about Art and Process [Youtube Example](https://www.youtube.com/watch?v=xQlD5uYwYEs) (part 2)
 
-- If we have time: Discussion of Next Project (Artist Statement) Draft of Brief
+- If we have time: Discussion of Next Project (Artist Statement) Draft of Brief [Communications_L6.pdf](/assets/Communications_L6.pdf)
 
 # September 22
 
@@ -202,6 +202,9 @@ On a new word doc, please draft the following  scenario and then an email that o
 ## Our Module Descriptor
 
 More for bookkeeping than anything, but figure you might be interested to get an overview.
+
+![[6N1950 Communications v2.1 (rev) Aug 2025.pdf]]
+[Download 6N1950 Communications v2.1 (rev) Aug 2025.pdf](/assets/6N1950%20Communications%20v2.1%20%28rev%29%20Aug%202025.pdf)
 
 ## Pages in this section
 
