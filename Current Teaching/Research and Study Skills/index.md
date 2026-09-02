@@ -1,4 +1,5 @@
 ---
+showToc: true
 title: "Research & Study Skills"
 description: "For Forensics, Criminology and Psychology"
 ---
@@ -7,7 +8,7 @@ Click or tap the little triangle/arrow on the left to collapse/expand the conten
 
 ### Brief 1: Banana Project: Due January 10th
 
-[The Humble Banana](/Current+Teaching/Research+and+Study+Skills/The+Humble+Banana)
+[The Humble Banana](/Current%20Teaching/Research%20and%20Study%20Skills/The%20Humble%20Banana)
 
 ### Brief 2: News Media Sustainability Project: Due date Extended to April 17th
 
@@ -35,7 +36,7 @@ Here are all three briefs just for clarity, if you have not submitted the Banana
 
 ### Brief 1: Banana Project
 
-[The Humble Banana](/Current+Teaching/Research+and+Study+Skills/The+Humble+Banana)
+[The Humble Banana](/Current%20Teaching/Research%20and%20Study%20Skills/The%20Humble%20Banana)
 
 ### Brief 2: News Media Sustainability Project: Due date Extended to April 17th
 
@@ -287,7 +288,7 @@ Week 6: Incorporating feedback: tips for submission, formatting, how to be clear
 
 # Week of Oct. 13
 
-- Discussing Framing Project: [The Humble Banana](/Current+Teaching/Research+and+Study+Skills/The+Humble+Banana)
+- Discussing Framing Project: [The Humble Banana](/Current%20Teaching/Research%20and%20Study%20Skills/The%20Humble%20Banana)
 
   - Splitting into groups
 
@@ -301,7 +302,7 @@ Week 6: Incorporating feedback: tips for submission, formatting, how to be clear
 
 Framing Project
 
-[The Humble Banana](/Current+Teaching/Research+and+Study+Skills/The+Humble+Banana)
+[The Humble Banana](/Current%20Teaching/Research%20and%20Study%20Skills/The%20Humble%20Banana)
 
 # Week of Sept. 29
 
@@ -486,4 +487,4 @@ More for bookkeeping than anything, but figure you might be interested to get an
 
 ## Pages in this section
 
-- [The Humble Banana](/Current+Teaching/Research+and+Study+Skills/The+Humble+Banana): A Four Week Project on Framing
+- [The Humble Banana](/Current%20Teaching/Research%20and%20Study%20Skills/The%20Humble%20Banana): A Four Week Project on Framing

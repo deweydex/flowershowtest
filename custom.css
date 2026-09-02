@@ -44,8 +44,13 @@
      18px base and generous leading. */
   --font-body: Georgia, "Iowan Old Style", "Times New Roman", serif;
   --font-heading: Georgia, "Iowan Old Style", "Times New Roman", serif;
-  --font-size-base: 1.0625rem;
+  --font-size-base: 1.125rem;
   --line-height-normal: 1.6;
+
+  /* Reading measure: about seventy characters of Georgia at 18px. The
+     default theme lets prose run to 72rem, which is what made long pages
+     feel small and wide. */
+  --dl-measure: 42rem;
 
   /* dewlab's corners are barely rounded */
   --radius: 4px;
@@ -136,6 +141,161 @@
 .page-header-description {
   color: var(--dl-muted);
   font-style: italic;
+}
+
+/* ------------------------------------------------------- layout */
+
+/* The reading column. Flowershow's default lets rendered markdown stretch
+   to 72rem; everything here is capped at --dl-measure so a line of prose
+   stays readable on a wide monitor. The header follows the same edge. */
+.rendered-mdx:not(.is-plain) {
+  max-width: var(--dl-measure);
+  font-size: var(--font-size-base);
+  line-height: 1.7;
+}
+
+.page-header {
+  max-width: var(--dl-measure);
+}
+
+/* Flowershow hides the first H1 of a page on the assumption that it repeats
+   the title. On this site the first H1 is the first section ("About Me",
+   "For Everyone", "Introduction"), so it has to show. */
+.rendered-mdx:not(.is-plain) h1:first-child {
+  display: block;
+}
+
+/* Page title: the default scales up to 3.7rem on desktop and 3.5rem on a
+   phone, which pushes the opening paragraph below the fold. */
+.page-header-title {
+  font-size: clamp(1.75rem, 1.2rem + 2.2vw, 2.5rem);
+  line-height: 1.15;
+  letter-spacing: 0;
+}
+
+.page-header-description {
+  font-size: var(--font-size-lg);
+  line-height: 1.4;
+  font-weight: normal;
+}
+
+/* Less air above the page and tighter side padding on a phone, where the
+   default 2rem each side took a third of the screen. */
+.layout-inner {
+  margin-top: 2rem;
+}
+
+@media (max-width: 639px) {
+  .layout-inner {
+    padding: 0 1.25rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .layout-inner {
+    margin-top: 3rem;
+  }
+}
+
+/* A wider sidebar column, and one that also appears between 1024px and
+   1280px when the TOC is off (the default only lays it out from 1280px). */
+@media (min-width: 1024px) {
+  .layout-inner.has-sidebar,
+  .layout-inner.has-sidebar-and-toc {
+    grid-template-columns: 18rem minmax(0, 1fr);
+    column-gap: 3rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .layout-inner.has-sidebar-and-toc {
+    grid-template-columns: 18rem minmax(0, 1fr) 14rem;
+  }
+}
+
+/* Wide things scroll inside their own box rather than widening the page. */
+.rendered-mdx table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.rendered-mdx iframe,
+.rendered-mdx video,
+.rendered-mdx img {
+  max-width: 100%;
+}
+
+/* -------------------------------------------------------- sidebar */
+
+/* Sidebar tree: 16px rather than 15px, more room between rows, a hairline
+   to show nesting, and current page in the accent. */
+.site-tree-item {
+  font-size: 1rem;
+  line-height: 1.35;
+  margin: 0.6rem 0;
+  color: var(--color-foreground-700);
+}
+
+.site-tree-item-children {
+  padding-left: 0.9rem;
+  margin-left: 0.35rem;
+  border-left: 1px solid var(--dl-rule);
+}
+
+.site-tree-item-icon {
+  width: 1.1rem;
+  height: 1.1rem;
+}
+
+.site-tree-item-self:hover {
+  font-weight: normal;
+}
+
+/* Phone drawer and breadcrumb bar */
+.sidebar-drawer-panel {
+  width: 20rem;
+  max-width: 88vw;
+}
+
+.sidebar-drawer-panel .site-tree-item {
+  font-size: 1.05rem;
+  margin: 0.7rem 0;
+}
+
+.site-subnav-breadcrumbs {
+  font-size: 0.95rem;
+}
+
+.site-subnav-menu-button,
+.site-subnav-menu-icon {
+  color: var(--color-foreground-700);
+}
+
+/* Navbar: readable link size and a slightly larger site name. */
+.site-navbar-link,
+.site-navbar-dropdown-trigger {
+  font-size: 1rem;
+  letter-spacing: 0;
+}
+
+.site-navbar-site-name {
+  font-size: 1.35rem;
+}
+
+.mobile-nav-link,
+.mobile-nav-dropdown-trigger {
+  font-size: 1.1rem;
+  padding: 0.4rem 0;
+}
+
+.mobile-nav-tree-item-self {
+  font-size: 1.05rem;
+}
+
+/* TOC (only on the long course pages, via showToc in the frontmatter) */
+.toc-item {
+  font-size: 0.9rem;
 }
 
 /* --------------------------------------------------------- prose */

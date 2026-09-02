@@ -231,9 +231,9 @@ Copy of Table 43
 
 ## Pages in this section
 
-- [template_case_study](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/Templates+and+Briefs/Brief_2_Case_Study/template_case_study)
-- [worksheet_mozilla](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/Templates+and+Briefs/Brief_2_Case_Study/worksheet_mozilla)
-- [worksheet_wikimedia](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/Templates+and+Briefs/Brief_2_Case_Study/worksheet_wikimedia)
-- [worksheet_signal](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/Templates+and+Briefs/Brief_2_Case_Study/worksheet_signal)
-- [worksheet_eff](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/Templates+and+Briefs/Brief_2_Case_Study/worksheet_eff)
-- [worksheet_creative_commons](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/Templates+and+Briefs/Brief_2_Case_Study/worksheet_creative_commons)
+- [template_case_study](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/Templates%20and%20Briefs/Brief_2_Case_Study/template_case_study)
+- [worksheet_mozilla](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/Templates%20and%20Briefs/Brief_2_Case_Study/worksheet_mozilla)
+- [worksheet_wikimedia](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/Templates%20and%20Briefs/Brief_2_Case_Study/worksheet_wikimedia)
+- [worksheet_signal](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/Templates%20and%20Briefs/Brief_2_Case_Study/worksheet_signal)
+- [worksheet_eff](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/Templates%20and%20Briefs/Brief_2_Case_Study/worksheet_eff)
+- [worksheet_creative_commons](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/Templates%20and%20Briefs/Brief_2_Case_Study/worksheet_creative_commons)

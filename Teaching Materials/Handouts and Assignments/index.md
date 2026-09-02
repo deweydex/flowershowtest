@@ -7,4 +7,4 @@ If there is an issue with Moodle or Brightspace or Github-Classroom, here is whe
 
 ## Pages in this section
 
-- [Independent Learning Plan](/Teaching+Materials/Handouts+and+Assignments/Independent+Learning+Plan): Start with learning how to plan and learning will follow
+- [Independent Learning Plan](/Teaching%20Materials/Handouts%20and%20Assignments/Independent%20Learning%20Plan): Start with learning how to plan and learning will follow

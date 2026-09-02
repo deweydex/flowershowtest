@@ -22,4 +22,4 @@ For screens:
 
 ## Pages in this section
 
-- [Annotated (Unverified) Sheets](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Mathematics/Somewhat-Traditional+Worksheets/Annotated+%28Unverified%29+Sheets)
+- [Annotated (Unverified) Sheets](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Mathematics/Somewhat-Traditional%20Worksheets/Annotated%20%28Unverified%29%20Sheets)

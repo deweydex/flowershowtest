@@ -1,4 +1,5 @@
 ---
+showToc: true
 title: "Brief_4_Professional_Materials"
 ---
 
@@ -266,4 +267,4 @@ You may use AI tools (ChatGPT, Claude, etc.) for brainstorming and suggestions. 
 
 ## Pages in this section
 
-- [template_professional_materials](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/Templates+and+Briefs/Brief_4_Professional_Materials/template_professional_materials)
+- [template_professional_materials](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/Templates%20and%20Briefs/Brief_4_Professional_Materials/template_professional_materials)

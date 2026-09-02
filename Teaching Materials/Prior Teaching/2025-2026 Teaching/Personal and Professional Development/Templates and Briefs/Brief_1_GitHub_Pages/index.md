@@ -59,7 +59,7 @@ Copy of Table 44
 
 ### Website Requirements
 
-- [ ] Site is live at [yourusername.github.io](http://yourusername.github.io)
+- [ ] Site is live at `yourusername.github.io`
 
 - [ ] Homepage introduces you professionally
 
@@ -170,4 +170,4 @@ Copy of Table 44
 
 ## Pages in this section
 
-- [template_github_pages](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/Templates+and+Briefs/Brief_1_GitHub_Pages/template_github_pages)
+- [template_github_pages](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/Templates%20and%20Briefs/Brief_1_GitHub_Pages/template_github_pages)

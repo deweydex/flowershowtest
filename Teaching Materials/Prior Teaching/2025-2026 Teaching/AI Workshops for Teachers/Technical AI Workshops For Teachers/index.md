@@ -111,7 +111,7 @@ Some things that might be helpful:
 
 ## Pages in this section
 
-- [Day 1: Intro, Learning a Line and Artificial Neurons](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AI+Workshops+for+Teachers/Technical+AI+Workshops+For+Teachers/Day+1+Intro+Learning+a+Line+and+Artificial+Neurons): Machine Learning Toward AI Session 1
-- [Day 2+3: From Lines to Neurons to Networks](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AI+Workshops+for+Teachers/Technical+AI+Workshops+For+Teachers/Day+2-3+From+Lines+to+Neurons+to+Networks)
-- [Day 3:](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AI+Workshops+for+Teachers/Technical+AI+Workshops+For+Teachers/Day+3)
-- [Other Days Coming Soon](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AI+Workshops+for+Teachers/Technical+AI+Workshops+For+Teachers/Other+Days+Coming+Soon)
+- [Day 1: Intro, Learning a Line and Artificial Neurons](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AI%20Workshops%20for%20Teachers/Technical%20AI%20Workshops%20For%20Teachers/Day%201%20Intro%20Learning%20a%20Line%20and%20Artificial%20Neurons): Machine Learning Toward AI Session 1
+- [Day 2+3: From Lines to Neurons to Networks](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AI%20Workshops%20for%20Teachers/Technical%20AI%20Workshops%20For%20Teachers/Day%202-3%20From%20Lines%20to%20Neurons%20to%20Networks)
+- [Day 3:](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AI%20Workshops%20for%20Teachers/Technical%20AI%20Workshops%20For%20Teachers/Day%203)
+- [Other Days Coming Soon](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AI%20Workshops%20for%20Teachers/Technical%20AI%20Workshops%20For%20Teachers/Other%20Days%20Coming%20Soon)

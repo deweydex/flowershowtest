@@ -1,4 +1,5 @@
 ---
+showToc: true
 title: "Web Authoring Project - ML Project Documentation"
 description: "DRAFT"
 ---
@@ -58,9 +59,9 @@ Submit GitHub repository URL (same repo from Assignment 1) containing:
 
 - project_readme.md
 
-- [maintenance.md](http://maintenance.md)
+- `maintenance.md`
 
-- [testing.md](http://testing.md)
+- `testing.md`
 
 **Assets:**
 
@@ -186,7 +187,7 @@ This page provides a comprehensive table of contents and project summary:
 
 ## Documentation Requirements
 
-### [project_planning.md](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AIML+Web+Authoring/Web+Authoring+Project+-+ML+Project+Documentation/project_planning-md+Template) Must Include
+### [project_planning.md](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AIML%20Web%20Authoring/Web%20Authoring%20Project%20-%20ML%20Project%20Documentation/project_planning-md%20Template) Must Include
 
 **Site Overview:**
 
@@ -228,7 +229,7 @@ This page provides a comprehensive table of contents and project summary:
 
 - Accessibility considerations
 
-### [project_readme.md](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AIML+Web+Authoring/Web+Authoring+Project+-+ML+Project+Documentation/project_readme-md+Template) Must Include
+### [project_readme.md](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AIML%20Web%20Authoring/Web%20Authoring%20Project%20-%20ML%20Project%20Documentation/project_readme-md%20Template) Must Include
 
 1. Complete portfolio overview
 
@@ -334,5 +335,5 @@ Copy of Table 29
 
 ## Pages in this section
 
-- [project_planning.md Template](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AIML+Web+Authoring/Web+Authoring+Project+-+ML+Project+Documentation/project_planning-md+Template): DRAFT
-- [project_readme.md Template](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AIML+Web+Authoring/Web+Authoring+Project+-+ML+Project+Documentation/project_readme-md+Template): DRAFT
+- [project_planning.md Template](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AIML%20Web%20Authoring/Web%20Authoring%20Project%20-%20ML%20Project%20Documentation/project_planning-md%20Template): DRAFT
+- [project_readme.md Template](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AIML%20Web%20Authoring/Web%20Authoring%20Project%20-%20ML%20Project%20Documentation/project_readme-md%20Template): DRAFT

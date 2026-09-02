@@ -1,4 +1,5 @@
 ---
+showToc: true
 title: "DRAFT Web Authoring Project Brief 70%"
 ---
 
@@ -97,7 +98,7 @@ You will submit a link to a GitHub repository containing all website files and c
 
 # Detailed Requirements
 
-## Planning Documentation ([planning.md](http://planning.md))
+## Planning Documentation (`planning.md`)
 
 Your planning documentation must include:
 
@@ -147,7 +148,7 @@ Your planning documentation must include:
 
 - Any code generators or frameworks considered
 
-## Website Documentation ([readme.md](http://readme.md))
+## Website Documentation (`readme.md`)
 
 Your readme must include:
 
@@ -167,7 +168,7 @@ Your readme must include:
 
 - Brief reflection on what you learned
 
-## Maintenance Documentation ([maintenance.md](http://maintenance.md))
+## Maintenance Documentation (`maintenance.md`)
 
 Your maintenance documentation must include:
 
@@ -335,7 +336,7 @@ Copy of Table 12
 
 - Website should be deployed via GitHub Pages or equivalent hosting
 
-- Include deployment URL in your [readme.md](http://readme.md)
+- Include deployment URL in your `readme.md`
 
 ## **Pre-Submission Checklist:**
 
@@ -355,7 +356,7 @@ Copy of Table 12
 
 # Resources
 
-You may consult tutorials, reference materials, and documentation while developing your website. However, all code you submit must be written by you. If you adapt code from a tutorial or other source, document this in your [planning.md](http://planning.md) with proper attribution.
+You may consult tutorials, reference materials, and documentation while developing your website. However, all code you submit must be written by you. If you adapt code from a tutorial or other source, document this in your `planning.md` with proper attribution.
 
 Recommended resources include MDN Web Docs, CSS-Tricks, and W3Schools for technical reference. For design inspiration, study professional websites in your chosen topic area, but do not copy their designs directly.
 
@@ -367,11 +368,11 @@ If you use code snippets from tutorials or documentation, this is acceptable pro
 
 1. Understand the code completely and can explain how it works
 
-1. Document the source in your [planning.md](http://planning.md) file
+1. Document the source in your `planning.md` file
 
 1. Adapt the code to your specific needs rather than copying it verbatim
 
-[Under Construction: Resources](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Web+Authoring+and+Databases/DRAFT+Web+Authoring+Project+Brief+70+percent/Under+Construction+Resources)
+[Under Construction: Resources](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Web%20Authoring%20and%20Databases/DRAFT%20Web%20Authoring%20Project%20Brief%2070%20percent/Under%20Construction%20Resources)
 
 ### Copy of Table 12
 
@@ -413,4 +414,4 @@ If you use code snippets from tutorials or documentation, this is acceptable pro
 
 ## Pages in this section
 
-- [Under Construction: Resources](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Web+Authoring+and+Databases/DRAFT+Web+Authoring+Project+Brief+70+percent/Under+Construction+Resources)
+- [Under Construction: Resources](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Web%20Authoring%20and%20Databases/DRAFT%20Web%20Authoring%20Project%20Brief%2070%20percent/Under%20Construction%20Resources)

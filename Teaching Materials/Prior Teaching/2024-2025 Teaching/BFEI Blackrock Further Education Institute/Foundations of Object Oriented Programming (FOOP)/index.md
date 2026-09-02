@@ -20,7 +20,7 @@ Please download the following and submit online if you would like to receive any
 
 # March Practice
 
-[OOP Notebooks](/Teaching+Materials/Prior+Teaching/2024-2025+Teaching/BFEI+Blackrock+Further+Education+Institute/Foundations+of+Object+Oriented+Programming+%28FOOP%29/OOP+Notebooks)
+[OOP Notebooks](/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/BFEI%20Blackrock%20Further%20Education%20Institute/Foundations%20of%20Object%20Oriented%20Programming%20%28FOOP%29/OOP%20Notebooks)
 
 # Skills Demo 1 (Should be Same as Moodle):
 
@@ -32,10 +32,10 @@ So many Problems in both python and C#!
 
 ## Pages in this section
 
-- [Learning C#](/Teaching+Materials/Prior+Teaching/2024-2025+Teaching/BFEI+Blackrock+Further+Education+Institute/Foundations+of+Object+Oriented+Programming+%28FOOP%29/Learning+CSharp): Moving from Python to C# never had so many bad jokes
-- [OOP Notebooks](/Teaching+Materials/Prior+Teaching/2024-2025+Teaching/BFEI+Blackrock+Further+Education+Institute/Foundations+of+Object+Oriented+Programming+%28FOOP%29/OOP+Notebooks)
-- [visual-map-tutorial](/Teaching+Materials/Prior+Teaching/2024-2025+Teaching/BFEI+Blackrock+Further+Education+Institute/Foundations+of+Object+Oriented+Programming+%28FOOP%29/visual-map-tutorial)
-- [oop-map-notebook](/Teaching+Materials/Prior+Teaching/2024-2025+Teaching/BFEI+Blackrock+Further+Education+Institute/Foundations+of+Object+Oriented+Programming+%28FOOP%29/oop-map-notebook)
-- [Solar System OOP 1 of 3](/Teaching+Materials/Prior+Teaching/2024-2025+Teaching/BFEI+Blackrock+Further+Education+Institute/Foundations+of+Object+Oriented+Programming+%28FOOP%29/Solar+System+OOP+1+of+3)
-- [Solar System 2 of 3](/Teaching+Materials/Prior+Teaching/2024-2025+Teaching/BFEI+Blackrock+Further+Education+Institute/Foundations+of+Object+Oriented+Programming+%28FOOP%29/Solar+System+2+of+3)
-- [Solar System Bonus 3 of 3](/Teaching+Materials/Prior+Teaching/2024-2025+Teaching/BFEI+Blackrock+Further+Education+Institute/Foundations+of+Object+Oriented+Programming+%28FOOP%29/Solar+System+Bonus+3+of+3)
+- [Learning C#](/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/BFEI%20Blackrock%20Further%20Education%20Institute/Foundations%20of%20Object%20Oriented%20Programming%20%28FOOP%29/Learning%20CSharp): Moving from Python to C# never had so many bad jokes
+- [OOP Notebooks](/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/BFEI%20Blackrock%20Further%20Education%20Institute/Foundations%20of%20Object%20Oriented%20Programming%20%28FOOP%29/OOP%20Notebooks)
+- [visual-map-tutorial](/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/BFEI%20Blackrock%20Further%20Education%20Institute/Foundations%20of%20Object%20Oriented%20Programming%20%28FOOP%29/visual-map-tutorial)
+- [oop-map-notebook](/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/BFEI%20Blackrock%20Further%20Education%20Institute/Foundations%20of%20Object%20Oriented%20Programming%20%28FOOP%29/oop-map-notebook)
+- [Solar System OOP 1 of 3](/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/BFEI%20Blackrock%20Further%20Education%20Institute/Foundations%20of%20Object%20Oriented%20Programming%20%28FOOP%29/Solar%20System%20OOP%201%20of%203)
+- [Solar System 2 of 3](/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/BFEI%20Blackrock%20Further%20Education%20Institute/Foundations%20of%20Object%20Oriented%20Programming%20%28FOOP%29/Solar%20System%202%20of%203)
+- [Solar System Bonus 3 of 3](/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/BFEI%20Blackrock%20Further%20Education%20Institute/Foundations%20of%20Object%20Oriented%20Programming%20%28FOOP%29/Solar%20System%20Bonus%203%20of%203)

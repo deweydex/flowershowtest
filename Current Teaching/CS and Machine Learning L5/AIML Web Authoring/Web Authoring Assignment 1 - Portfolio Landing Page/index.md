@@ -38,9 +38,9 @@ Submit a GitHub repository URL containing:
 
 - **styles.css** - External stylesheet
 
-- [planning.md](/Current+Teaching/CS+and+Machine+Learning+L5/AIML+Web+Authoring/Web+Authoring+Assignment+1+-+Portfolio+Landing+Page/Assignment1_Planning_Template) - Planning documentation
+- [planning.md](/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Authoring%20Assignment%201%20-%20Portfolio%20Landing%20Page/Assignment1_Planning_Template) - Planning documentation
 
-- [readme.md](/Current+Teaching/CS+and+Machine+Learning+L5/AIML+Web+Authoring/Web+Authoring+Assignment+1+-+Portfolio+Landing+Page/Assignment1_Readme_Template) - Project description
+- [readme.md](/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Authoring%20Assignment%201%20-%20Portfolio%20Landing%20Page/Assignment1_Readme_Template) - Project description
 
 - **images/** - Folder for any images used
 
@@ -110,7 +110,7 @@ Submit a GitHub repository URL containing:
 
 ## Documentation Requirements
 
-### [planning.md](http://planning.md) Must Include
+### `planning.md` Must Include
 
 1. Portfolio purpose and target audience
 
@@ -130,7 +130,7 @@ Submit a GitHub repository URL containing:
 
 1. Explanation of 4 CSS properties you’ll implement
 
-### [readme.md](http://readme.md) Must Include
+### `readme.md` Must Include
 
 1. Overview of portfolio purpose
 
@@ -193,5 +193,5 @@ Table 30
 
 ## Pages in this section
 
-- [Assignment1_Planning_Template](/Current+Teaching/CS+and+Machine+Learning+L5/AIML+Web+Authoring/Web+Authoring+Assignment+1+-+Portfolio+Landing+Page/Assignment1_Planning_Template)
-- [Assignment1_Readme_Template](/Current+Teaching/CS+and+Machine+Learning+L5/AIML+Web+Authoring/Web+Authoring+Assignment+1+-+Portfolio+Landing+Page/Assignment1_Readme_Template)
+- [Assignment1_Planning_Template](/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Authoring%20Assignment%201%20-%20Portfolio%20Landing%20Page/Assignment1_Planning_Template)
+- [Assignment1_Readme_Template](/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Authoring%20Assignment%201%20-%20Portfolio%20Landing%20Page/Assignment1_Readme_Template)

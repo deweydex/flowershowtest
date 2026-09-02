@@ -1,4 +1,5 @@
 ---
+showToc: true
 title: "Mathematics"
 description: "Maths for IT and Computational Methods"
 ---
@@ -246,7 +247,7 @@ For the challenge in that notebook we will need to use some python documentation
 
 [Some function practice for thursday](https://colab.research.google.com/drive/1hyAlMxwqy-Tc5zBPz7Vm1aCBJ1CK2YTo?usp=sharing)
 
-Some more practice (use the .py not the .cs files—the latter are Csharp so not as useful for you) [Foundations of Object Oriented Programming (FOOP)](/Teaching+Materials/Prior+Teaching/2024-2025+Teaching/BFEI+Blackrock+Further+Education+Institute/Foundations+of+Object+Oriented+Programming+%28FOOP%29)
+Some more practice (use the .py not the .cs files—the latter are Csharp so not as useful for you) [Foundations of Object Oriented Programming (FOOP)](/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/BFEI%20Blackrock%20Further%20Education%20Institute/Foundations%20of%20Object%20Oriented%20Programming%20%28FOOP%29)
 
 Today we went through how probability and matrices connect, as well as what aspects are “not important” or “not visible” to probability: in particular we discussed a couple of geometry problems where the area of the shape mattered, but the specifics of the shape—such as position or even angles and sides—did not affect the outcome, but the area did. We also began to discuss how probability and calculus connect: namely that probability does not have a “sense of time” just has the “outcome” of an instantaneous “experiment”... We will use some ideas of calculus to move from probability over discrete spaces with discrete experiments to more continuous “rate of change” type problems, which will help us toward moving into higher dimensional spaces (in which we can get a machine to learn truly amazing stuff with calculus and probability).
 
@@ -402,7 +403,7 @@ Josh waxes rhapsodic (says pretty words) about:
 
 - A toy neural network to play around with: [https://playground.tensorflow.org/](https://playground.tensorflow.org/)
 
-- A full implementation of a neural net in python [https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/#](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/#)
+- A full implementation of a neural net in python [https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/#](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
 
 - [https://www.kaggle.com/learn/intro-to-machine-learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 
@@ -513,4 +514,4 @@ An [Oxford Assessment](https://www.maths.ox.ac.uk/study-here/undergraduate-study
 
 ## Pages in this section
 
-- [Somewhat-Traditional Worksheets](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Mathematics/Somewhat-Traditional+Worksheets)
+- [Somewhat-Traditional Worksheets](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Mathematics/Somewhat-Traditional%20Worksheets)

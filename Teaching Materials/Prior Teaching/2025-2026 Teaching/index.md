@@ -5,12 +5,12 @@ description: "Teaching for the 2025-2026 Year"
 
 ## Pages in this section
 
-- [My Calendar](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/My+Calendar): Where to find me during the week
-- [Communications](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Communications): Module for Advanced Ceramics and Design Techniques Level 6
-- [Research & Study Skills](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Research+and+Study+Skills): For Forensics, Criminology and Psychology
-- [AI for Business](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AI+for+Business)
-- [Personal & Professional Development](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development): Computer Science and Cyber Security Lv 6
-- [Mathematics](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Mathematics): Maths for IT and Computational Methods
-- [Web Authoring & Databases](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Web+Authoring+and+Databases): Web Authoring and Databases for CompSci L5
-- [AI Workshops for Teachers](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AI+Workshops+for+Teachers)
-- [AIML Web Authoring](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AIML+Web+Authoring): Material specific to the AIML Web Authoring Class
+- [My Calendar](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/My%20Calendar): Where to find me during the week
+- [Communications](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Communications): Module for Advanced Ceramics and Design Techniques Level 6
+- [Research & Study Skills](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Research%20and%20Study%20Skills): For Forensics, Criminology and Psychology
+- [AI for Business](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AI%20for%20Business)
+- [Personal & Professional Development](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development): Computer Science and Cyber Security Lv 6
+- [Mathematics](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Mathematics): Maths for IT and Computational Methods
+- [Web Authoring & Databases](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Web%20Authoring%20and%20Databases): Web Authoring and Databases for CompSci L5
+- [AI Workshops for Teachers](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AI%20Workshops%20for%20Teachers)
+- [AIML Web Authoring](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AIML%20Web%20Authoring): Material specific to the AIML Web Authoring Class

@@ -6,19 +6,19 @@
     "links": [
       {
         "name": "Current Teaching",
-        "href": "/Current+Teaching"
+        "href": "/Current%20Teaching"
       },
       {
         "name": "Teaching Materials",
-        "href": "/Teaching+Materials"
+        "href": "/Teaching%20Materials"
       },
       {
         "name": "Short-form Guides",
-        "href": "/Short-form+Guides"
+        "href": "/Short-form%20Guides"
       },
       {
         "name": "Resources",
-        "href": "/Resources+and+Recommendations"
+        "href": "/Resources%20and%20Recommendations"
       }
     ]
   },
@@ -26,7 +26,7 @@
   "sidebar": {
     "orderBy": "title"
   },
-  "showToc": true,
+  "showToc": false,
   "showBacklinks": false,
   "theme": {
     "defaultMode": "system",

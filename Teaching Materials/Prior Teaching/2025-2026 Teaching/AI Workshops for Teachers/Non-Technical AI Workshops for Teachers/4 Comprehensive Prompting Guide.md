@@ -1,4 +1,5 @@
 ---
+showToc: true
 title: "4 Comprehensive Prompting Guide"
 description: "Effective Strategies for Working with Large Language Models"
 ---

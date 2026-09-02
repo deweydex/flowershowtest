@@ -1,4 +1,5 @@
 ---
+showToc: true
 title: "AI for Business"
 ---
 
@@ -383,4 +384,4 @@ I am surprised at how quickly the educational applications of AI have been rolle
 
 ## Pages in this section
 
-- [Prompt Guides](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AI+for+Business/Prompt+Guides)
+- [Prompt Guides](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AI%20for%20Business/Prompt%20Guides)

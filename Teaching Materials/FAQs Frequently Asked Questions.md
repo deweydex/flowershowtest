@@ -3,26 +3,26 @@ title: "FAQs: Frequently Asked Questions"
 description: "Some Answers to Common Queries"
 ---
 
-# This page is under construction! :)
+This page is under construction! :) The questions below are the ones I hear most often; answers are on their way.
 
-# Am I allowed to use Chat GPT and other LLM/AI tools?
+## Am I allowed to use Chat GPT and other LLM/AI tools?
 
-# How will I be graded?
+## How will I be graded?
 
-# How can I improve my grade?
+## How can I improve my grade?
 
-# Do I have to do reflections?
+## Do I have to do reflections?
 
-# Why are there no due dates on assignments?
+## Why are there no due dates on assignments?
 
-# What does a Check-In entail?
+## What does a Check-In entail?
 
-# How much do I have to write for a project update?
+## How much do I have to write for a project update?
 
-# How do I know when a project is done?
+## How do I know when a project is done?
 
-# Will there be any quizzes or tests?
+## Will there be any quizzes or tests?
 
-# What are assessments?
+## What are assessments?
 
-# Do I have to use the online resources you recommend?
+## Do I have to use the online resources you recommend?

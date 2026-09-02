@@ -2,7 +2,6 @@
 title: "Cross-Module Integration Summary"
 ---
 
-# Cross-Module Integration Summary
 
 **AI and Machine Learning Foundations Programme**
 QQI Level 5–6 | Blackrock Further Education Institute | 2024–2025

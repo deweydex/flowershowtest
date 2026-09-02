@@ -1,4 +1,5 @@
 ---
+showToc: true
 title: "Maths for IT"
 description: "Course Content and Timeline"
 ---
@@ -17,7 +18,7 @@ Week 4: Exam Review
 
 Final Week Before Exams: Exam Review
 
-### End of Year Reflections: [End of Year Reflections](/Teaching+Materials/Prior+Teaching/2024-2025+Teaching/DCFE+Dundrum+College+of+Further+Education/Maths+for+IT/End+of+Year+Reflections)
+### End of Year Reflections: [End of Year Reflections](/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/DCFE%20Dundrum%20College%20of%20Further%20Education/Maths%20for%20IT/End%20of%20Year%20Reflections)
 
 # February: Probability and Statistics
 
@@ -279,12 +280,12 @@ Today, as usual, we have a couple options of the work we will do today.
 
    1. Functions (or trigonometric functions) with complex numbers (e^ix, factoring and graphing (x^4 + 1)
 
-1. [This link](https://forms.office.com/e/huXkP8EbkC) will take you to a form where you will be asked to create an *independent learning plan* based on some of the topics we discussed last time as causing some trouble. For more on Independent Learning Plans, [check out this page](/Teaching+Materials/Handouts+and+Assignments/Independent+Learning+Plan)!
+1. [This link](https://forms.office.com/e/huXkP8EbkC) will take you to a form where you will be asked to create an *independent learning plan* based on some of the topics we discussed last time as causing some trouble. For more on Independent Learning Plans, [check out this page](/Teaching%20Materials/Handouts%20and%20Assignments/Independent%20Learning%20Plan)!
 
 1. If you would prefer to work on eomsething else more independently, you can work on Khan Academy (the class code [can be found here](https://www.khanacademy.org/join/BDBED472) if you choose to make an account, but you don’t need one to do exercises) or another resource that you have discussed with me.
 
-[https://coda.io/d/_dXwmZI3vjrc/_sunh2VWC](https://coda.io/d/_dXwmZI3vjrc/_sunh2VWC)
+*(This linked to a Coda page that no longer exists.)*
 
 ## Pages in this section
 
-- [End of Year Reflections](/Teaching+Materials/Prior+Teaching/2024-2025+Teaching/DCFE+Dundrum+College+of+Further+Education/Maths+for+IT/End+of+Year+Reflections): What we have done and what comes next
+- [End of Year Reflections](/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/DCFE%20Dundrum%20College%20of%20Further%20Education/Maths%20for%20IT/End%20of%20Year%20Reflections): What we have done and what comes next

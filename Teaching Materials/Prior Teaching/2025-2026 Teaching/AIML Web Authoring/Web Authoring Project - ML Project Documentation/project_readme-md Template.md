@@ -1,4 +1,5 @@
 ---
+showToc: true
 title: "project_readme.md Template"
 description: "DRAFT"
 ---

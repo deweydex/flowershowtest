@@ -38,6 +38,6 @@ Some experiments that led to todays tutorials (there are issues, and I used some
 
 # Things to watch and read:
 
-- Fantastic[Resource from](https://www.3blue1brown.com/?topic=neural-networks) 3Blue1Brown’s Grant Sanderson ([equivalent YouTube playlist)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- Fantastic[Resource from](https://www.3blue1brown.com/topics/neural-networks) 3Blue1Brown’s Grant Sanderson ([equivalent YouTube playlist)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 - Also fantastic from [Welch Labs](https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)

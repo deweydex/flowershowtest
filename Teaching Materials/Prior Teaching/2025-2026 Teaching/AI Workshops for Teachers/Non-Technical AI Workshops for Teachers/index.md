@@ -9,13 +9,13 @@ The following handouts are drafts and will change frequently over the next few m
 
 ## Handouts: Online Version (Markdown)
 
-[0 AI Technologies](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AI+Workshops+for+Teachers/Non-Technical+AI+Workshops+for+Teachers/0+AI+Technologies)
+[0 AI Technologies](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AI%20Workshops%20for%20Teachers/Non-Technical%20AI%20Workshops%20for%20Teachers/0%20AI%20Technologies)
 
-[1 Understanding LLMs In Context](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AI+Workshops+for+Teachers/Non-Technical+AI+Workshops+for+Teachers/1+Understanding+LLMs+In+Context)
+[1 Understanding LLMs In Context](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AI%20Workshops%20for%20Teachers/Non-Technical%20AI%20Workshops%20for%20Teachers/1%20Understanding%20LLMs%20In%20Context)
 
-[2 Tool Limitations](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AI+Workshops+for+Teachers/Non-Technical+AI+Workshops+for+Teachers/2+Tool+Limitations)
+[2 Tool Limitations](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AI%20Workshops%20for%20Teachers/Non-Technical%20AI%20Workshops%20for%20Teachers/2%20Tool%20Limitations)
 
-[3 LLMs & Teaching](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AI+Workshops+for+Teachers/Non-Technical+AI+Workshops+for+Teachers/3+LLMs+and+Teaching)
+[3 LLMs & Teaching](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AI%20Workshops%20for%20Teachers/Non-Technical%20AI%20Workshops%20for%20Teachers/3%20LLMs%20and%20Teaching)
 
 ## Handouts: Word
 
@@ -69,9 +69,9 @@ Note: I do not always agree with these papers and articles, but they have helpfu
 
 ## Pages in this section
 
-- [0 AI Technologies](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AI+Workshops+for+Teachers/Non-Technical+AI+Workshops+for+Teachers/0+AI+Technologies): Understanding AI Technologies: A Comparison
-- [1 Understanding LLMs In Context](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AI+Workshops+for+Teachers/Non-Technical+AI+Workshops+for+Teachers/1+Understanding+LLMs+In+Context): A 30-Minute Exploration for Educators
-- [2 Tool Limitations](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AI+Workshops+for+Teachers/Non-Technical+AI+Workshops+for+Teachers/2+Tool+Limitations): Building a Hermeneutic of Suspicion: A Critical Evaluation Exercise
-- [3 LLMs & Teaching](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AI+Workshops+for+Teachers/Non-Technical+AI+Workshops+for+Teachers/3+LLMs+and+Teaching): Understanding Student AI Use Beyond Simple Detection
-- [4 Comprehensive Prompting Guide](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AI+Workshops+for+Teachers/Non-Technical+AI+Workshops+for+Teachers/4+Comprehensive+Prompting+Guide): Effective Strategies for Working with Large Language Models
-- [5 Educational Prompting Examples](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AI+Workshops+for+Teachers/Non-Technical+AI+Workshops+for+Teachers/5+Educational+Prompting+Examples): Paragraph-Length Prompts for Teaching Contexts
+- [0 AI Technologies](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AI%20Workshops%20for%20Teachers/Non-Technical%20AI%20Workshops%20for%20Teachers/0%20AI%20Technologies): Understanding AI Technologies: A Comparison
+- [1 Understanding LLMs In Context](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AI%20Workshops%20for%20Teachers/Non-Technical%20AI%20Workshops%20for%20Teachers/1%20Understanding%20LLMs%20In%20Context): A 30-Minute Exploration for Educators
+- [2 Tool Limitations](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AI%20Workshops%20for%20Teachers/Non-Technical%20AI%20Workshops%20for%20Teachers/2%20Tool%20Limitations): Building a Hermeneutic of Suspicion: A Critical Evaluation Exercise
+- [3 LLMs & Teaching](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AI%20Workshops%20for%20Teachers/Non-Technical%20AI%20Workshops%20for%20Teachers/3%20LLMs%20and%20Teaching): Understanding Student AI Use Beyond Simple Detection
+- [4 Comprehensive Prompting Guide](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AI%20Workshops%20for%20Teachers/Non-Technical%20AI%20Workshops%20for%20Teachers/4%20Comprehensive%20Prompting%20Guide): Effective Strategies for Working with Large Language Models
+- [5 Educational Prompting Examples](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AI%20Workshops%20for%20Teachers/Non-Technical%20AI%20Workshops%20for%20Teachers/5%20Educational%20Prompting%20Examples): Paragraph-Length Prompts for Teaching Contexts
