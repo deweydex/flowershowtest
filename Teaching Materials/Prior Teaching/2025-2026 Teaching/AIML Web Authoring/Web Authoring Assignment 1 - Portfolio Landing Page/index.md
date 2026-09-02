@@ -38,9 +38,9 @@ Submit a GitHub repository URL containing:
 
 - **styles.css** - External stylesheet
 
-- [planning.md](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AIML+Web+Authoring/Web+Authoring+Assignment+1+-+Portfolio+Landing+Page/Assignment1_Planning_Template) - Planning documentation
+- [planning.md](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AIML%20Web%20Authoring/Web%20Authoring%20Assignment%201%20-%20Portfolio%20Landing%20Page/Assignment1_Planning_Template) - Planning documentation
 
-- [readme.md](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AIML+Web+Authoring/Web+Authoring+Assignment+1+-+Portfolio+Landing+Page/Assignment1_Readme_Template) - Project description
+- [readme.md](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AIML%20Web%20Authoring/Web%20Authoring%20Assignment%201%20-%20Portfolio%20Landing%20Page/Assignment1_Readme_Template) - Project description
 
 - **images/** - Folder for any images used
 
@@ -195,5 +195,5 @@ Copy of Table 30
 
 ## Pages in this section
 
-- [Assignment1_Planning_Template](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AIML+Web+Authoring/Web+Authoring+Assignment+1+-+Portfolio+Landing+Page/Assignment1_Planning_Template)
-- [Assignment1_Readme_Template](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/AIML+Web+Authoring/Web+Authoring+Assignment+1+-+Portfolio+Landing+Page/Assignment1_Readme_Template)
+- [Assignment1_Planning_Template](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AIML%20Web%20Authoring/Web%20Authoring%20Assignment%201%20-%20Portfolio%20Landing%20Page/Assignment1_Planning_Template)
+- [Assignment1_Readme_Template](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AIML%20Web%20Authoring/Web%20Authoring%20Assignment%201%20-%20Portfolio%20Landing%20Page/Assignment1_Readme_Template)

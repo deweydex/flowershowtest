@@ -6,7 +6,7 @@ title: "Templates and Briefs"
 
 ## Pages in this section
 
-- [Brief_1_GitHub_Pages](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/Templates+and+Briefs/Brief_1_GitHub_Pages)
-- [Brief_2_Case_Study](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/Templates+and+Briefs/Brief_2_Case_Study)
-- [Brief_3_Year_Planning](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/Templates+and+Briefs/Brief_3_Year_Planning)
-- [Brief_4_Professional_Materials](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/Templates+and+Briefs/Brief_4_Professional_Materials)
+- [Brief_1_GitHub_Pages](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/Templates%20and%20Briefs/Brief_1_GitHub_Pages)
+- [Brief_2_Case_Study](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/Templates%20and%20Briefs/Brief_2_Case_Study)
+- [Brief_3_Year_Planning](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/Templates%20and%20Briefs/Brief_3_Year_Planning)
+- [Brief_4_Professional_Materials](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/Templates%20and%20Briefs/Brief_4_Professional_Materials)

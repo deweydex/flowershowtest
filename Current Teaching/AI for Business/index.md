@@ -383,4 +383,4 @@ I am surprised at how quickly the educational applications of AI have been rolle
 
 ## Pages in this section
 
-- [Prompt Guides](/Current+Teaching/AI+for+Business/Prompt+Guides)
+- [Prompt Guides](/Current%20Teaching/AI%20for%20Business/Prompt%20Guides)

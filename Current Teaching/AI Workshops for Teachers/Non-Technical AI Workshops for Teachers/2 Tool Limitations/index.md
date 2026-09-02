@@ -90,4 +90,4 @@ Modern AI chatbots are unpredictable because they’re hybrids. A prompt that sh
 
 ## Pages in this section
 
-- [2 Tool Limitations Filled](/Current+Teaching/AI+Workshops+for+Teachers/Non-Technical+AI+Workshops+for+Teachers/2+Tool+Limitations/2+Tool+Limitations+Filled)
+- [2 Tool Limitations Filled](/Current%20Teaching/AI%20Workshops%20for%20Teachers/Non-Technical%20AI%20Workshops%20for%20Teachers/2%20Tool%20Limitations/2%20Tool%20Limitations%20Filled)

@@ -17,13 +17,13 @@ How the template looks (just fork and or download the whole repository).  **[htt
 
 # Web Authoring Assignment:
 
-[Web Authoring Assignment 1 - Portfolio Landing Page](/Current+Teaching/CS+and+Machine+Learning+L5/AIML+Web+Authoring/Web+Authoring+Assignment+1+-+Portfolio+Landing+Page)
+[Web Authoring Assignment 1 - Portfolio Landing Page](/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Authoring%20Assignment%201%20-%20Portfolio%20Landing%20Page)
 
 # Web Authoring Project:
 
-[Web Authoring Project - ML Project Documentation](/Current+Teaching/CS+and+Machine+Learning+L5/AIML+Web+Authoring/Web+Authoring+Project+-+ML+Project+Documentation)
+[Web Authoring Project - ML Project Documentation](/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Authoring%20Project%20-%20ML%20Project%20Documentation)
 
 ## Pages in this section
 
-- [Web Authoring Assignment 1 - Portfolio Landing Page](/Current+Teaching/CS+and+Machine+Learning+L5/AIML+Web+Authoring/Web+Authoring+Assignment+1+-+Portfolio+Landing+Page): DRAFT
-- [Web Authoring Project - ML Project Documentation](/Current+Teaching/CS+and+Machine+Learning+L5/AIML+Web+Authoring/Web+Authoring+Project+-+ML+Project+Documentation): DRAFT
+- [Web Authoring Assignment 1 - Portfolio Landing Page](/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Authoring%20Assignment%201%20-%20Portfolio%20Landing%20Page): DRAFT
+- [Web Authoring Project - ML Project Documentation](/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Authoring%20Project%20-%20ML%20Project%20Documentation): DRAFT

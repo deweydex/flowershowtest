@@ -31,7 +31,7 @@ If I am absent for more than one class we will work on what make-up work looks l
 
 # Communication and Professionalism
 
-In general we will use (Moodle?) as well as email for communication about our work together. Handouts will appear on Moodle but can also be found [here](/Teaching+Materials/Handouts+and+Assignments) (and should be sent to your email once settings have been so configured). The following are some general ideas about communication as well as specific norms that will help us to communicate better, both between teacher and student and amongst yourselves as students.
+In general we will use (Moodle?) as well as email for communication about our work together. Handouts will appear on Moodle but can also be found [here](/Teaching%20Materials/Handouts%20and%20Assignments) (and should be sent to your email once settings have been so configured). The following are some general ideas about communication as well as specific norms that will help us to communicate better, both between teacher and student and amongst yourselves as students.
 
 How we communicate in a given context depends on lots of factors big and small: everything from our age, mother-tongue, dialect, upbringing, culture and prior educational and professional experiences shape how we speak and write to each other. Today, sometimes it can be difficult to understand how to address people in different circumstances. During my courses I try to include a day where we discuss communication, but I can give a brief overview of expectations here. The general idea is to think of all communications we share as taking place within a professional context.
 
@@ -39,7 +39,7 @@ How we communicate in a given context depends on lots of factors big and small: 
 
 1. In written communication we will use capitalization (especially of words like I and proper nouns) and be as grammatical as possible (sometimes, when discussing math and computer science terms, grammar can be confusing!). If you need any advice or help with your writing, there are lots of great tools online (Grammarly for example) and there are plenty of folks who can help around, just ask!
 
-1. We want to explain answers to problems and questions, no matter the subject; this means more than showing your work, it also means “teaching to the page” which we will discuss more in class, and in an upcoming [handout](/Teaching+Materials/Handouts+and+Assignments).
+1. We want to explain answers to problems and questions, no matter the subject; this means more than showing your work, it also means “teaching to the page” which we will discuss more in class, and in an upcoming [handout](/Teaching%20Materials/Handouts%20and%20Assignments).
 
 # Submissions
 

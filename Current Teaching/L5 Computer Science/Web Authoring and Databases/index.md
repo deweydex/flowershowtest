@@ -69,7 +69,7 @@ A Draft of our Brief:
 
 Let’s revisit our challenge from a couple weeks ago!
 
-Can you find a dataset from our [world in data](www.ourworldindata.org), either download or link it to your jupyter notebook and replicate one of the associated charts on the page you found it?
+Can you find a dataset from our [world in data](https://ourworldindata.org), either download or link it to your jupyter notebook and replicate one of the associated charts on the page you found it?
 
 If you have trouble, I’ll be coming around to bug you and see how things are going!
 
@@ -83,7 +83,7 @@ Bonus—untested tutorial! Might have bugs! Please let me know if so! :)
 
 Pandas and matplotlib challenge! Remake a chart from
 
-[www.ourworldindata.org](ourworldindata.org)
+[ourworldindata.org](https://ourworldindata.org)
 
 # Week of January 13
 
@@ -105,7 +105,7 @@ Then lets have a look at this notebook:
 
 # Week of December 15
 
-[DRAFT Web Authoring Project Brief 70%](/Current+Teaching/L5+Computer+Science/Web+Authoring+and+Databases/DRAFT+Web+Authoring+Project+Brief+70+percent)
+[DRAFT Web Authoring Project Brief 70%](/Current%20Teaching/L5%20Computer%20Science/Web%20Authoring%20and%20Databases/DRAFT%20Web%20Authoring%20Project%20Brief%2070%20percent)
 
 THIS IS A DRAFT AND SUBJECT TO CHANGE! :) the project will be due in April and assigned in mid Jan officially
 
@@ -256,7 +256,7 @@ Can you create a personal web page? How does the CMS work?
 
 ## Web Authoring:
 
-- Tutorials: reflection and searching exercise ([below](/Current+Teaching/L5+Computer+Science/Web+Authoring+and+Databases)), how is it going?
+- Tutorials: reflection and searching exercise ([below](/Current%20Teaching/L5%20Computer%20Science/Web%20Authoring%20and%20Databases)), how is it going?
 
 - Khan Academy Tutorial
 
@@ -383,5 +383,5 @@ Tasks for today:
 
 ## Pages in this section
 
-- [Programs to Install](/Current+Teaching/L5+Computer+Science/Web+Authoring+and+Databases/Programs+to+Install)
-- [DRAFT Web Authoring Project Brief 70%](/Current+Teaching/L5+Computer+Science/Web+Authoring+and+Databases/DRAFT+Web+Authoring+Project+Brief+70+percent)
+- [Programs to Install](/Current%20Teaching/L5%20Computer%20Science/Web%20Authoring%20and%20Databases/Programs%20to%20Install)
+- [DRAFT Web Authoring Project Brief 70%](/Current%20Teaching/L5%20Computer%20Science/Web%20Authoring%20and%20Databases/DRAFT%20Web%20Authoring%20Project%20Brief%2070%20percent)

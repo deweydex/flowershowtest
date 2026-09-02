@@ -3,7 +3,7 @@ title: "Personal & Professional Development"
 description: "Computer Science and Cyber Security Lv 6"
 ---
 
-# [Templates and Briefs](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/Templates+and+Briefs)
+# [Templates and Briefs](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/Templates%20and%20Briefs)
 
 # Week of April 13
 
@@ -107,7 +107,7 @@ Professional Materials: Feb 27 11pm
 
 # Week of Feb 2
 
-End of Year Plan: [Brief 3: Year Planning](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/Templates+and+Briefs/Brief_3_Year_Planning)
+End of Year Plan: [Brief 3: Year Planning](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/Templates%20and%20Briefs/Brief_3_Year_Planning)
 
 We will work on this today with the goal of submitting next week
 
@@ -115,11 +115,11 @@ We will work on this today with the goal of submitting next week
 
 1. Finishing our GitHub pages profile
 
-   1. Finish Github Pages: [DRAFT Assessment Brief Github Pages](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/DRAFT+Assessment+Brief+Github+Pages)
+   1. Finish Github Pages: [DRAFT Assessment Brief Github Pages](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/DRAFT%20Assessment%20Brief%20Github%20Pages)
 
 1. Starting our organizational case study
 
-   1. [DRAFT Organizational Case Study Brief](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/DRAFT+Organizational+Case+Study+Brief)
+   1. [DRAFT Organizational Case Study Brief](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/DRAFT%20Organizational%20Case%20Study%20Brief)
 
 # Week of Jan 20
 
@@ -135,9 +135,9 @@ Plan for the semester!
 
   - January:
 
-    - Finish Github Pages: [DRAFT Assessment Brief Github Pages](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/DRAFT+Assessment+Brief+Github+Pages)
+    - Finish Github Pages: [DRAFT Assessment Brief Github Pages](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/DRAFT%20Assessment%20Brief%20Github%20Pages)
 
-    - Organizational Case Study: [DRAFT Organizational Case Study Brief](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/DRAFT+Organizational+Case+Study+Brief)
+    - Organizational Case Study: [DRAFT Organizational Case Study Brief](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/DRAFT%20Organizational%20Case%20Study%20Brief)
 
   - February:
 
@@ -149,9 +149,9 @@ Plan for the semester!
 
 Drafts of Assessment Documents (will be final in January)
 
-[DRAFT Assessment Brief Github Pages](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/DRAFT+Assessment+Brief+Github+Pages)
+[DRAFT Assessment Brief Github Pages](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/DRAFT%20Assessment%20Brief%20Github%20Pages)
 
-[DRAFT Development Process Worksheet](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/DRAFT+Development+Process+Worksheet)
+[DRAFT Development Process Worksheet](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/DRAFT%20Development%20Process%20Worksheet)
 
 # Week of Dec 8
 
@@ -406,7 +406,7 @@ More for bookkeeping than anything, but figure you might be interested to get an
 
 ## Pages in this section
 
-- [Templates and Briefs](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/Templates+and+Briefs)
-- [DRAFT Assessment Brief Github Pages](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/DRAFT+Assessment+Brief+Github+Pages)
-- [DRAFT Development Process Worksheet](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/DRAFT+Development+Process+Worksheet)
-- [DRAFT Organizational Case Study Brief](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/DRAFT+Organizational+Case+Study+Brief)
+- [Templates and Briefs](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/Templates%20and%20Briefs)
+- [DRAFT Assessment Brief Github Pages](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/DRAFT%20Assessment%20Brief%20Github%20Pages)
+- [DRAFT Development Process Worksheet](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/DRAFT%20Development%20Process%20Worksheet)
+- [DRAFT Organizational Case Study Brief](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/DRAFT%20Organizational%20Case%20Study%20Brief)

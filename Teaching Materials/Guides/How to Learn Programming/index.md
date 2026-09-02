@@ -5,7 +5,7 @@ description: "One more guide on how to learn programming generally in the 2020s"
 
 # Introduction
 
-This guide will hopefully be a little bit different from most guides out there on how to learn programming in the mid 2020s. I will indeed give some concrete advice about what one can use and steps to get started, but the [Resources and Recommendations](/Resources+and+Recommendations) Page contains more context specific suggestions for specific subjects and use cases.
+This guide will hopefully be a little bit different from most guides out there on how to learn programming in the mid 2020s. I will indeed give some concrete advice about what one can use and steps to get started, but the [Resources and Recommendations](/Resources%20and%20Recommendations) Page contains more context specific suggestions for specific subjects and use cases.
 
 # What Do You Mean By Programming?
 
@@ -59,4 +59,4 @@ I am sure there will be more of these as the semester goes on, thanks for helpin
 
 ## Pages in this section
 
-- [Learning Python](/Teaching+Materials/Guides/How+to+Learn+Programming/Learning+Python)
+- [Learning Python](/Teaching%20Materials/Guides/How%20to%20Learn%20Programming/Learning%20Python)

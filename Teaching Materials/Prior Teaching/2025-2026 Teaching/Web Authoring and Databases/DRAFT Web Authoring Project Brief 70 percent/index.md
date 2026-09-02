@@ -371,7 +371,7 @@ If you use code snippets from tutorials or documentation, this is acceptable pro
 
 1. Adapt the code to your specific needs rather than copying it verbatim
 
-[Under Construction: Resources](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Web+Authoring+and+Databases/DRAFT+Web+Authoring+Project+Brief+70+percent/Under+Construction+Resources)
+[Under Construction: Resources](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Web%20Authoring%20and%20Databases/DRAFT%20Web%20Authoring%20Project%20Brief%2070%20percent/Under%20Construction%20Resources)
 
 ### Copy of Table 12
 
@@ -413,4 +413,4 @@ If you use code snippets from tutorials or documentation, this is acceptable pro
 
 ## Pages in this section
 
-- [Under Construction: Resources](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Web+Authoring+and+Databases/DRAFT+Web+Authoring+Project+Brief+70+percent/Under+Construction+Resources)
+- [Under Construction: Resources](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Web%20Authoring%20and%20Databases/DRAFT%20Web%20Authoring%20Project%20Brief%2070%20percent/Under%20Construction%20Resources)

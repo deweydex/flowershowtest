@@ -35,9 +35,9 @@ And here is a worksheet for thinking about what questions and ideas you might ha
 
 Artist statement worksheets:
 
-Let’s have a look at the first of these worksheets— the Artist Statement Brainstorming Worksheet — and see how things go. Feel free to download the word document below or use the [web version here](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Communications/Artist+Statement+Brainstorming).
+Let’s have a look at the first of these worksheets— the Artist Statement Brainstorming Worksheet — and see how things go. Feel free to download the word document below or use the [web version here](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Communications/Artist%20Statement%20Brainstorming).
 
-Once you have gone through that sheet, have a look at the upcoming outline sheet, we will spend some time going through your brainstorming and then work on the outline together. If you feel comfortable diving into your actual statement after you have completed brainstorming, go for it! ([The web version of this document is here](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Communications/Artist+Statement+Outline))
+Once you have gone through that sheet, have a look at the upcoming outline sheet, we will spend some time going through your brainstorming and then work on the outline together. If you feel comfortable diving into your actual statement after you have completed brainstorming, go for it! ([The web version of this document is here](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Communications/Artist%20Statement%20Outline))
 
 # January 5
 
@@ -93,7 +93,7 @@ Today we will be working on the Grants and Residences  Research Activity with an
 
 Today we will be investigating some funding, learning and travel opportunities associated with your practice. If you are not sure if you want to do these, that’s okay, learning about what is out there and figuring out what you are not interested in can be just as important as finding your thing... and who knows, you might just find something you didn’t expect! (Several artists I know have talked about residencies or grants as being what made them decide to go full time, or to change their practice to being alongside a more traditional 9-5, everyone is different, the key for us here is finding out what is out there and maybe changing our idea about what is possible or realistic.)
 
-[Grants & Residencies Research Activity](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Communications/Grants+and+Residencies+Research+Activity)
+[Grants & Residencies Research Activity](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Communications/Grants%20and%20Residencies%20Research%20Activity)
 
 # September 29:
 
@@ -131,7 +131,7 @@ On a new word doc, let’s think through a few things involving communication wi
 
 1. Propose a meeting (time, day etc.) and prepare an agenda for the meeting.
 
-[Reflections on Intro Task](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Communications/Reflections+on+Intro+Task)
+[Reflections on Intro Task](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Communications/Reflections%20on%20Intro%20Task)
 
 ## Looking at an Example Together:
 
@@ -208,7 +208,7 @@ More for bookkeeping than anything, but figure you might be interested to get an
 
 ## Pages in this section
 
-- [Artist Statement Brainstorming](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Communications/Artist+Statement+Brainstorming)
-- [Artist Statement Outline](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Communications/Artist+Statement+Outline)
-- [Reflections on Intro Task](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Communications/Reflections+on+Intro+Task)
-- [Grants & Residencies Research Activity](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Communications/Grants+and+Residencies+Research+Activity): Finding Funding and Opportunities for Your Practice
+- [Artist Statement Brainstorming](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Communications/Artist%20Statement%20Brainstorming)
+- [Artist Statement Outline](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Communications/Artist%20Statement%20Outline)
+- [Reflections on Intro Task](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Communications/Reflections%20on%20Intro%20Task)
+- [Grants & Residencies Research Activity](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Communications/Grants%20and%20Residencies%20Research%20Activity): Finding Funding and Opportunities for Your Practice

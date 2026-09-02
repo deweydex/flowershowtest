@@ -186,7 +186,7 @@ This page provides a comprehensive table of contents and project summary:
 
 ## Documentation Requirements
 
-### [project_planning.md](/Current+Teaching/CS+and+Machine+Learning+L5/AIML+Web+Authoring/Web+Authoring+Project+-+ML+Project+Documentation/project_planning-md+Template) Must Include
+### [project_planning.md](/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Authoring%20Project%20-%20ML%20Project%20Documentation/project_planning-md%20Template) Must Include
 
 **Site Overview:**
 
@@ -228,7 +228,7 @@ This page provides a comprehensive table of contents and project summary:
 
 - Accessibility considerations
 
-### [project_readme.md](/Current+Teaching/CS+and+Machine+Learning+L5/AIML+Web+Authoring/Web+Authoring+Project+-+ML+Project+Documentation/project_readme-md+Template) Must Include
+### [project_readme.md](/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Authoring%20Project%20-%20ML%20Project%20Documentation/project_readme-md%20Template) Must Include
 
 1. Complete portfolio overview
 
@@ -332,5 +332,5 @@ Table 29
 
 ## Pages in this section
 
-- [project_planning.md Template](/Current+Teaching/CS+and+Machine+Learning+L5/AIML+Web+Authoring/Web+Authoring+Project+-+ML+Project+Documentation/project_planning-md+Template): DRAFT
-- [project_readme.md Template](/Current+Teaching/CS+and+Machine+Learning+L5/AIML+Web+Authoring/Web+Authoring+Project+-+ML+Project+Documentation/project_readme-md+Template): DRAFT
+- [project_planning.md Template](/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Authoring%20Project%20-%20ML%20Project%20Documentation/project_planning-md%20Template): DRAFT
+- [project_readme.md Template](/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Authoring%20Project%20-%20ML%20Project%20Documentation/project_readme-md%20Template): DRAFT

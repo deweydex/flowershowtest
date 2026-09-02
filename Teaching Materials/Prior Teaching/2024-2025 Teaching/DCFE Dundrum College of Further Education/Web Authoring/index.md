@@ -29,7 +29,7 @@ Sqlite practice
 
 # Planning for Project
 
-[Independent Learning Plan](/Teaching+Materials/Handouts+and+Assignments/Independent+Learning+Plan)
+[Independent Learning Plan](/Teaching%20Materials/Handouts%20and%20Assignments/Independent%20Learning%20Plan)
 
 # Please look at Moodle for up to date information!
 
@@ -93,4 +93,4 @@ Fun Resources:https://www.youtube.com/watch?v=SO83KQuuZvg&t=1003s
 
 ## Pages in this section
 
-- [Planning for Assignment](/Teaching+Materials/Prior+Teaching/2024-2025+Teaching/DCFE+Dundrum+College+of+Further+Education/Web+Authoring/Planning+for+Assignment)
+- [Planning for Assignment](/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/DCFE%20Dundrum%20College%20of%20Further%20Education/Web%20Authoring/Planning%20for%20Assignment)

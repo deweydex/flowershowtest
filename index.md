@@ -7,17 +7,17 @@ description: "I am an insatiable learner based in Ireland but from lots of place
 
 I love learning! This remains the strongest thread connecting the various endeavors and happenings of the past decade and a half. Those years have led me to various cities and jobs, where I have had the good fortune of learning from fantastic teachers and students. My original academic background is in Computer Science and Mathematics from McGill University in Montreal, but the most interesting and exciting stuff always seems to happen when one mixes the technical fields with the humanistic. My more recent academic focus was Machine Learning and Intelligent Systems (and their societal implications) at the Technical University of Berlin. I am currently working towards a Masters in Human Centred Artificial Intelligence at Technological University Dublin (expected 2026).
 
-For professional inquiries, please have a look at the [consultancy I am associated with](https://www.test.com/), though you are welcome to reach out to me directly using the contact form below.
+For professional inquiries, reach out to me directly using the contact form below.
 
 # Teaching Materials
 
-[Teaching Materials](/Teaching+Materials) is where my classroom material lives, especially for students. Most of what I have made is unfortunately the property of the organisations I made it for (Nelson and Paper being prime examples), but I have a few samples of classroom materials and explanations there. Along with the recommendations below, this is a great way to get a feel for how I teach, or at least how I taught a few years ago, before I started producing content professionally. Should you find something interesting, or would like to use a worksheet of mine, just send me a message with the contact form below. (If you are a teacher, I will almost always say yes!)
+[Teaching Materials](/Teaching%20Materials) is where my classroom material lives, especially for students. Most of what I have made is unfortunately the property of the organisations I made it for (Nelson and Paper being prime examples), but I have a few samples of classroom materials and explanations there. Along with the recommendations below, this is a great way to get a feel for how I teach, or at least how I taught a few years ago, before I started producing content professionally. Should you find something interesting, or would like to use a worksheet of mine, just send me a message with the contact form below. (If you are a teacher, I will almost always say yes!)
 
-That page has an unexpectedly growing variety of sub-pages on different subjects. If you are a [student](/Teaching+Materials#for-students), [teacher](/Teaching+Materials#for-teachers-and-educators), [employer](/Teaching+Materials#for-employers) or [parent](/Teaching+Materials#for-parents), just click the appropriate link to see a bit of introduction and guidance to orient you towards pages you might find useful.
+That page has an unexpectedly growing variety of sub-pages on different subjects. If you are a [student](/Teaching%20Materials#for-students), [teacher](/Teaching%20Materials#for-teachers-and-educators), [employer](/Teaching%20Materials#for-employers) or [parent](/Teaching%20Materials#for-parents), just click the appropriate link to see a bit of introduction and guidance to orient you towards pages you might find useful.
 
 # Resources & Recommendations
 
-[Resources & Recommendations](/Resources+and+Recommendations) is never up to date, as there is just so much cool stuff out there. But if you are looking for sites, books, channels and methods that I have used over the years, it is a great place to start. Having a glance through these gives a pretty good overview of both how I teach and why, without bothering with all the verbiage in the guides section.
+[Resources & Recommendations](/Resources%20and%20Recommendations) is never up to date, as there is just so much cool stuff out there. But if you are looking for sites, books, channels and methods that I have used over the years, it is a great place to start. Having a glance through these gives a pretty good overview of both how I teach and why, without bothering with all the verbiage in the guides section.
 
 # Contact Form
 

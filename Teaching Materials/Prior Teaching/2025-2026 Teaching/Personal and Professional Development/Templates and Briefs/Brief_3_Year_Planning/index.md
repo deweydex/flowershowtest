@@ -207,4 +207,4 @@ Copy of Table 42
 
 ## Pages in this section
 
-- [template_year_planning](/Teaching+Materials/Prior+Teaching/2025-2026+Teaching/Personal+and+Professional+Development/Templates+and+Briefs/Brief_3_Year_Planning/template_year_planning)
+- [template_year_planning](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Professional%20Development/Templates%20and%20Briefs/Brief_3_Year_Planning/template_year_planning)
