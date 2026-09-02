@@ -1,3 +1,49 @@
 {
-  "showSidebar": true
+  "siteName": "Joshua Aaron",
+  "description": "Teaching materials, guides and thoughts on education from Joshua Aaron, an insatiable learner based in Ireland.",
+  "nav": {
+    "title": "Joshua Aaron",
+    "links": [
+      {
+        "name": "Current Teaching",
+        "href": "/Current+Teaching"
+      },
+      {
+        "name": "Teaching Materials",
+        "href": "/Teaching+Materials"
+      },
+      {
+        "name": "Short-form Guides",
+        "href": "/Short-form+Guides"
+      },
+      {
+        "name": "Resources",
+        "href": "/Resources+and+Recommendations"
+      }
+    ]
+  },
+  "showSidebar": true,
+  "sidebar": {
+    "orderBy": "title"
+  },
+  "showToc": true,
+  "showBacklinks": false,
+  "theme": {
+    "defaultMode": "system",
+    "showModeSwitch": true
+  },
+  "contentHide": [
+    "/Contact.md",
+    "/Current Teaching/My Calendar.md",
+    "/Current Teaching/Research and Study Skills/The Humble Banana/Pick Your Frame.md",
+    "/Random Writings.md",
+    "/Scratch paper.md",
+    "/Teaching Materials/Learning Student Backgrounds.md",
+    "/Teaching Materials/Prior Teaching/2024-2025 Teaching/DCFE Dundrum College of Further Education/Maths for IT/Maths for IT Problem Set 1.md",
+    "/Teaching Materials/Prior Teaching/2025-2026 Teaching/Research and Study Skills/The Humble Banana/Pick Your Frame.md"
+  ],
+  "head": "<script defer src=\"https://tally.so/widgets/embed.js\"></script>",
+  "contentExclude": [
+    "/_import"
+  ]
 }
