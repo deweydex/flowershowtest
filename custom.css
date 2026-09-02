@@ -1,0 +1,233 @@
+/* Joshua Aaron's site — house style carried over from dewlab
+ * (deweydex/dewlab, assets/tutorial-style.css).
+ *
+ * Navy headings, orange links, Georgia body text on a warm off-white page;
+ * a cool graphite page with pale-blue headings in dark mode. Flowershow
+ * resolves --color-background / --color-foreground / --color-accent from
+ * the --color-l-* (light) and --color-d-* (dark) pairs below, and derives a
+ * ten-step foreground ramp from --color-foreground, so most of the site
+ * follows from those six values. The rules further down pin the few places
+ * where dewlab's identity is more specific than a ramp can express.
+ *
+ * Flowershow loads this file after its default theme inside CSS cascade
+ * layers, so nothing here needs !important.
+ */
+
+:root {
+  /* dewlab's fixed brand hues */
+  --dl-navy: #1b2a4a;
+  --dl-orange: #d4692a;
+
+  /* Light palette (dewlab --dl-bg / --dl-fg / --dl-link) */
+  --color-l-background: #fdfcfa;
+  --color-l-foreground: #1a1a1a;
+  --color-l-accent: #d4692a;
+
+  /* Dark palette (dewlab dark --dl-bg / --dl-fg) */
+  --color-d-background: #14181f;
+  --color-d-foreground: #e6e3dd;
+  --color-d-accent: #e07b3c;
+
+  /* Per-mode tokens that the ramp cannot derive: heading colour, muted
+     text, rules, and the tinted panels dewlab uses for cells and code. */
+  --dl-heading: #1b2a4a;
+  --dl-muted: #5f6b7a;
+  --dl-rule: #e2ddd5;
+  --dl-cell-bg: #f6f4f0;
+  --dl-cell-border: #ddd7cd;
+  --dl-panel-bg: #ffffff;
+
+  --color-code-bg: #f6f4f0;
+  --color-code-bg-dark: #1b2129;
+
+  /* Type: Georgia for reading, a plain sans for the chrome, dewlab's
+     18px base and generous leading. */
+  --font-body: Georgia, "Iowan Old Style", "Times New Roman", serif;
+  --font-heading: Georgia, "Iowan Old Style", "Times New Roman", serif;
+  --font-size-base: 1.0625rem;
+  --line-height-normal: 1.6;
+
+  /* dewlab's corners are barely rounded */
+  --radius: 4px;
+
+  /* Callouts take the brand hues rather than Flowershow's rainbow */
+  --callout-note-color: #1b2a4a;
+  --callout-tip-color: #0d7a72;
+  --callout-warning-color: #d4692a;
+  --callout-quote-color: #5f6b7a;
+}
+
+:root[data-theme="dark"] {
+  --dl-heading: #b9c8e6;
+  --dl-muted: #98a2b3;
+  --dl-rule: #2a3140;
+  --dl-cell-bg: #1b2129;
+  --dl-cell-border: #2f3743;
+  --dl-panel-bg: #1b2129;
+  --callout-note-color: #b9c8e6;
+  --callout-tip-color: #5eead4;
+}
+
+/* "System" mode stamps no attribute, so the OS preference decides. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --dl-heading: #b9c8e6;
+    --dl-muted: #98a2b3;
+    --dl-rule: #2a3140;
+    --dl-cell-bg: #1b2129;
+    --dl-cell-border: #2f3743;
+    --dl-panel-bg: #1b2129;
+    --callout-note-color: #b9c8e6;
+    --callout-tip-color: #5eead4;
+  }
+}
+
+/* ------------------------------------------------------------ chrome */
+
+/* Navbar and sidebar are sans-serif in dewlab; only the reading surface
+   is serif. */
+.site-navbar,
+.site-tree,
+.toc,
+.site-footer,
+.site-subnav,
+.mobile-nav,
+.sidebar-drawer-panel {
+  font-family: "Helvetica Neue", Inter, system-ui, -apple-system, sans-serif;
+}
+
+.site-navbar {
+  border-bottom: 1px solid var(--dl-rule);
+}
+
+.site-navbar-site-name {
+  color: var(--dl-heading);
+  font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.site-navbar-link:hover,
+.site-navbar-dropdown-trigger:hover,
+.site-tree-item-self:hover,
+.toc-item-self:hover {
+  color: var(--color-accent);
+}
+
+.site-tree-item-self.is-current,
+.toc-item-self[aria-current="true"] {
+  color: var(--color-accent);
+  font-weight: 600;
+}
+
+.site-footer {
+  border-top: 1px solid var(--dl-rule);
+  color: var(--dl-muted);
+}
+
+/* ------------------------------------------------------- page header */
+
+.page-header-title {
+  color: var(--dl-heading);
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.page-header-description {
+  color: var(--dl-muted);
+  font-style: italic;
+}
+
+/* --------------------------------------------------------- prose */
+
+.prose {
+  --tw-prose-headings: var(--dl-heading);
+  --tw-prose-invert-headings: var(--dl-heading);
+  --tw-prose-links: var(--color-accent);
+  --tw-prose-invert-links: var(--color-accent);
+  --tw-prose-bold: var(--color-foreground-900);
+  --tw-prose-invert-bold: var(--color-foreground-900);
+  --tw-prose-quotes: var(--dl-muted);
+  --tw-prose-invert-quotes: var(--dl-muted);
+  --tw-prose-quote-borders: var(--dl-orange);
+  --tw-prose-invert-quote-borders: var(--dl-orange);
+  --tw-prose-hr: var(--dl-rule);
+  --tw-prose-invert-hr: var(--dl-rule);
+  --tw-prose-th-borders: var(--dl-cell-border);
+  --tw-prose-invert-th-borders: var(--dl-cell-border);
+  --tw-prose-td-borders: var(--dl-rule);
+  --tw-prose-invert-td-borders: var(--dl-rule);
+  --tw-prose-captions: var(--dl-muted);
+  --tw-prose-invert-captions: var(--dl-muted);
+}
+
+.rendered-mdx :is(h1, h2, h3, h4) {
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.rendered-mdx a {
+  color: var(--color-accent);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+  font-weight: inherit;
+}
+
+.rendered-mdx a:hover {
+  color: var(--color-accent-lighter);
+}
+
+.rendered-mdx blockquote {
+  border-left: 3px solid var(--dl-orange);
+  padding-left: 1rem;
+  font-style: normal;
+  color: var(--dl-muted);
+}
+
+/* Inline code and code blocks sit on dewlab's tinted cell surface with a
+   hairline border, so code reads as a different kind of thing from prose
+   without colour-blocking the page. */
+.rendered-mdx :not(pre) > code {
+  font-family: "SF Mono", "Cascadia Mono", Menlo, Consolas, monospace;
+  font-size: 0.85em;
+  font-weight: normal;
+  background: var(--dl-cell-bg);
+  border: 1px solid var(--dl-cell-border);
+  border-radius: 3px;
+  padding: 0.1em 0.35em;
+}
+
+.rendered-mdx :not(pre) > code::before,
+.rendered-mdx :not(pre) > code::after {
+  content: none;
+}
+
+.rendered-mdx pre {
+  font-family: "SF Mono", "Cascadia Mono", Menlo, Consolas, monospace;
+  border: 1px solid var(--dl-cell-border);
+  border-radius: var(--radius);
+}
+
+.rendered-mdx table {
+  font-size: 0.95em;
+}
+
+.rendered-mdx thead {
+  background: var(--dl-cell-bg);
+}
+
+/* Callouts: a left rule in the type colour on the tinted cell surface. */
+.rendered-mdx [data-callout] {
+  background: var(--dl-cell-bg);
+  border: 1px solid var(--dl-cell-border);
+  border-left-width: 3px;
+  border-radius: var(--radius);
+}
+
+/* Attachments and embedded documents get the same tinted card. */
+.rendered-mdx iframe,
+.rendered-mdx video {
+  border: 1px solid var(--dl-cell-border);
+  border-radius: var(--radius);
+  background: var(--dl-panel-bg);
+}
