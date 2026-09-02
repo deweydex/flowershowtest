@@ -5,7 +5,7 @@ description: "I am an insatiable learner based in Ireland but from lots of place
 
 # About Me
 
-I love learning! This remains the strongest thread connecting the various endeavors and happenings of the past decade and a half. Those years have led me to various cities and jobs, where I have had the good fortune of learning from fantastic teachers and students. My original academic background is in Computer Science and Mathematics from McGill University in Montreal, but the most interesting and exciting stuff always seems to happen when one mixes the technical fields with the humanistic. My more recent academic focus was Machine Learning and Intelligent Systems (and their societal implications) at the Technical University of Berlin. I am currently working towards a Masters in Human Centred Artificial Intelligence at Technological University Dublin (expected 2026).
+I love learning! This remains the strongest thread connecting the various endeavors and happenings of the past decade and a half. Those years have led me to various cities and jobs, where I have had the good fortune of learning from fantastic teachers and students. My original academic background is in Computer Science and Mathematics from McGill University in Montreal, but the most interesting and exciting stuff always seems to happen when one mixes the technical fields with the humanistic. My more recent academic focus was Machine Learning and Intelligent Systems (and their societal implications) at the Technical University of Berlin. I have since completed an MSc in Human Centred Artificial Intelligence at Technological University Dublin.
 
 For professional inquiries, reach out to me directly using the contact form below.
 

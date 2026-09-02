@@ -1,4 +1,5 @@
 ---
+showToc: true
 title: "project_planning.md Template"
 description: "DRAFT"
 ---
@@ -544,7 +545,7 @@ Portfolio Structure:
 
 - [Continue listing planned readme sections]
 
-### [maintenance.md](http://maintenance.md)
+### `maintenance.md`
 
 **What maintenance recommendations will you make?**
 
@@ -556,7 +557,7 @@ Portfolio Structure:
 
 - [Continue listing]
 
-### [testing.md](http://testing.md)
+### `testing.md`
 
 **What testing will you document?**
 

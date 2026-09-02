@@ -5,11 +5,6 @@ while read -r u; do
   code=$(curl -sS -o /dev/null -L -A 'Mozilla/5.0' --max-time 20 -w '%{http_code}' "$u" 2>/dev/null)
   printf '%s\t%s\n' "$code" "$u"
 done <<'EOF'
-http://Coolors.co
-http://Unsplash.com
-http://draw.io
-http://planning.md
-http://stackedit.io/
 https://ai.google.dev/gemini-api/docs/prompting-intro
 https://anchoreum.com
 https://api-docs.deepseek.com/
@@ -45,6 +40,7 @@ https://colab.research.google.com/drive/1ozDyE6-9orWFf4-IWcYXDToaD_HI0IDk?usp=sh
 https://colab.research.google.com/drive/1u7yZM2IZbi98H6GGYE1hxIsbmM5IGjyl?usp=sharing
 https://colab.research.google.com/drive/1z1tLteudEYmUBeQPa04xqmxIgPs85qWu?usp=sharing
 https://colab.research.google.com/github/jonkrohn/ML-foundations/blob/master/notebooks/5-probability.ipynb#scrollTo=HDE74CXX5ChI
+https://coolors.co
 https://cor.inquirygroup.org/videos/
 https://creativecommons.org/
 https://creativecommons.org/licenses/
@@ -96,7 +92,7 @@ https://iscontent.byu.edu/Canvas/MATH-110/MATH-110-M004/HTML/0_PlacementH5P.html
 https://jsaaron.carrd.co/#
 https://jsaaron.com
 https://learn.microsoft.com/en-us/collections/yz26f8y64n7k07
-https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/#
+https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/
 https://markdownonline.org
 https://mathsaustralia.com.au/placement-tests/placement-tests/
 https://meta.wikimedia.org/
@@ -115,13 +111,14 @@ https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/
 https://signal.org/
 https://signal.org/blog/
 https://sqltoerdiagram.com
+https://stackedit.io/
 https://stackedit.io/app#
 https://teams.microsoft.com/l/channel/19%3AjGlwVqtAl-zrkb3tZFkhPe2mOYo7AURkFylvSCjgvCk1%40thread.tacv2/General?groupId=a5fa6cb9-195f-4b5c-a8c5-71df0a40e9a6&tenantId=3ed6c8f5-4c16-44ad-9eed-60f851834a84
 https://teams.microsoft.com/l/team/19%3AcF-aggvE1Scbs1qqZbYJ36OmioVRbS3GKNzFLfgv7oI1%40thread.tacv2/conversations?groupId=07c64daa-a9bf-4733-acb7-5921b3833eeb&tenantId=3ed6c8f5-4c16-44ad-9eed-60f851834a84
 https://thecrashcourse.com/topic/medialiteracy/
 https://timothyprojectgig.github.io/JB_Math_Textbook/ProbStat/ProbIntro/prob.html
+https://unsplash.com
 https://v2.scrimba.com/learn-typescript-c03c
-https://www.3blue1brown.com/?topic=neural-networks
 https://www.3blue1brown.com/topics/linear-algebra
 https://www.3blue1brown.com/topics/neural-networks
 https://www.audiolabs-erlangen.de/resources/MIR/PCP/PCP_06_complex.html
@@ -132,6 +129,7 @@ https://www.codecademy.com/learn/learn-c-sharp
 https://www.codecademy.com/learn/learn-sql
 https://www.codecademy.com/learn/learn-typescript
 https://www.codechef.com/practice/python
+https://www.drawio.com
 https://www.edupyter.net/en/
 https://www.eff.org/
 https://www.eff.org/issues

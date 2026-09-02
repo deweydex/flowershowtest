@@ -1,4 +1,5 @@
 ---
+showToc: true
 title: "Research & Study Skills"
 description: "For Forensics, Criminology and Psychology"
 ---

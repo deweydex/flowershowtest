@@ -1,8 +1,9 @@
 ---
+showToc: true
 title: "Assignment1_Planning_Template"
 ---
 
-# [planning.md](http://planning.md) Template
+# `planning.md` Template
 
 ## Portfolio Landing Page Planning Document
 
@@ -84,7 +85,7 @@ Replace the placeholder text with your own detailed responses. The more thought 
 
 [Explain your color choices in 2-3 sentences]
 
-**Color scheme source:** [Did you use [Coolors.co](http://Coolors.co)? Adobe Color? Your own selection?]
+**Color scheme source:** [Did you use [Coolors.co](https://coolors.co)? Adobe Color? Your own selection?]
 
 **Accessibility check:** [Have you verified contrast with WebAIM Contrast Checker? What were the results?]
 
@@ -162,7 +163,7 @@ Replace the placeholder text with your own detailed responses. The more thought 
 
 ### Wireframe sketches
 
-*Required: Include wireframe(s) showing your planned layout. This can be hand-drawn and photographed, created in* [draw.io](http://draw.io), or made with any wireframing tool.
+*Required: Include wireframe(s) showing your planned layout. This can be hand-drawn and photographed, created in* [draw.io](https://www.drawio.com), or made with any wireframing tool.
 
 **Desktop wireframe:**
 [Insert image or describe: “See wireframe-desktop.png”]
@@ -202,9 +203,9 @@ Replace the placeholder text with your own detailed responses. The more thought 
 
 **Version control:** [Git and GitHub]
 
-**Wireframing tool:** [[draw.io](http://draw.io), pen and paper, Figma, etc.]
+**Wireframing tool:** [[draw.io](https://www.drawio.com), pen and paper, Figma, etc.]
 
-**Color selection tool:** [[Coolors.co](http://Coolors.co), Adobe Color, etc.]
+**Color selection tool:** [[Coolors.co](https://coolors.co), Adobe Color, etc.]
 
 **Other tools:** [Any other tools you’ll use?]
 

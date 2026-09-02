@@ -1,4 +1,5 @@
 ---
+showToc: true
 title: "Web Authoring & Databases"
 description: "Web Authoring and Databases for CompSci L5"
 ---
@@ -119,7 +120,7 @@ For your submission of your website please go to the Moodle page below and **sub
 
 [Mozilla Development  Network](https://developer.mozilla.org/en-US/)
 
-Wikipedia on [HTML](https://en.wikipedia.org/wiki/CSS) [CSS](https://en.wikipedia.org/wiki/HTML)
+Wikipedia on [HTML](https://en.wikipedia.org/wiki/HTML) [CSS](https://en.wikipedia.org/wiki/CSS)
 
 [History of HTML CSS](https://www3.cs.stonybrook.edu/~pfodor/courses/CSE316/L03-HTML_CSS.pdf)
 

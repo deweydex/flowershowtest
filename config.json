@@ -26,7 +26,7 @@
   "sidebar": {
     "orderBy": "title"
   },
-  "showToc": true,
+  "showToc": false,
   "showBacklinks": false,
   "theme": {
     "defaultMode": "system",

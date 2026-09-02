@@ -1,4 +1,5 @@
 ---
+showToc: true
 title: "Maths for IT"
 description: "Course Content and Timeline"
 ---

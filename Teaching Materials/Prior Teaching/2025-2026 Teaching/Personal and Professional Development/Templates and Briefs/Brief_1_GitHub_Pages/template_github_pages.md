@@ -6,8 +6,8 @@ title: "template_github_pages"
 
 **Student Name:** [Your Name]
 **Date:** [Today’s Date]
-**GitHub Pages URL:** [[yourusername.github.io](http://yourusername.github.io)]
-**GitHub Repository URL:** [[github.com/yourusername/yourusername.github.io](http://github.com/yourusername/yourusername.github.io)]
+**GitHub Pages URL:** [`yourusername.github.io`]
+**GitHub Repository URL:** [`github.com/yourusername/yourusername.github.io`]
 
 ---
 

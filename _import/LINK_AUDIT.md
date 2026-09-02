@@ -9,8 +9,8 @@ worksheet templates on purpose.
 | Verdict | Count |
 |---|---|
 | OK | 314 |
-| UNVERIFIED | 367 |
-| PLACEHOLDER | 21 |
+| UNVERIFIED | 355 |
+| PLACEHOLDER | 0 |
 | BROKEN | 0 |
 
 ## index.md
@@ -82,7 +82,7 @@ worksheet templates on purpose.
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
 | UNVERIFIED | https://playground.tensorflow.org/ | `https://playground.tensorflow.org/` | external host unreachable from the sandbox |
-| UNVERIFIED | Resource from | `https://www.3blue1brown.com/?topic=neural-networks` | external host unreachable from the sandbox |
+| UNVERIFIED | Resource from | `https://www.3blue1brown.com/topics/neural-networks` | external host unreachable from the sandbox |
 | UNVERIFIED | equivalent YouTube playlist) | `https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi` | external host unreachable from the sandbox |
 | UNVERIFIED | Welch Labs | `https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU` | external host unreachable from the sandbox |
 
@@ -123,11 +123,10 @@ worksheet templates on purpose.
 
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
-| UNVERIFIED | planning.md | `http://planning.md` | external host unreachable from the sandbox |
-| UNVERIFIED | Did you use [Coolors.co | `http://Coolors.co` | external host unreachable from the sandbox |
-| UNVERIFIED | draw.io | `http://draw.io` | external host unreachable from the sandbox |
-| UNVERIFIED | [draw.io | `http://draw.io` | external host unreachable from the sandbox |
-| UNVERIFIED | [Coolors.co | `http://Coolors.co` | external host unreachable from the sandbox |
+| UNVERIFIED | Did you use [Coolors.co | `https://coolors.co` | external host unreachable from the sandbox |
+| UNVERIFIED | draw.io | `https://www.drawio.com` | external host unreachable from the sandbox |
+| UNVERIFIED | [draw.io | `https://www.drawio.com` | external host unreachable from the sandbox |
+| UNVERIFIED | [Coolors.co | `https://coolors.co` | external host unreachable from the sandbox |
 | UNVERIFIED | Citation 1: e.g., “MDN Web Docs. (2024). HTML: HyperText Mar | `https://developer.mozilla.org/en-US/docs/Web/HTML` | external host unreachable from the sandbox |
 | UNVERIFIED | Citation 1: e.g., “W3C. (2024). CSS Specifications. [https:/ | `https://www.w3.org/Style/CSS/specs.en.html` | external host unreachable from the sandbox |
 
@@ -135,9 +134,8 @@ worksheet templates on purpose.
 
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
-| PLACEHOLDER | readme.md | `http://readme.md` | example address in a template |
-| UNVERIFIED | e.g., “background.jpg: [Unsplash.com | `http://Unsplash.com` | external host unreachable from the sandbox |
-| UNVERIFIED | Tool used, e.g., “Color palette generated with [Coolors.co | `http://Coolors.co` | external host unreachable from the sandbox |
+| UNVERIFIED | e.g., “background.jpg: [Unsplash.com | `https://unsplash.com` | external host unreachable from the sandbox |
+| UNVERIFIED | Tool used, e.g., “Color palette generated with [Coolors.co | `https://coolors.co` | external host unreachable from the sandbox |
 
 ## Current Teaching/CS and Machine Learning L5/AIML Web Authoring/Web Authoring Assignment 1 - Portfolio Landing Page/index.md
 
@@ -145,8 +143,6 @@ worksheet templates on purpose.
 |---|---|---|---|
 | OK | planning.md | `/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Aut...` |  |
 | OK | readme.md | `/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Aut...` |  |
-| UNVERIFIED | planning.md | `http://planning.md` | external host unreachable from the sandbox |
-| PLACEHOLDER | readme.md | `http://readme.md` | example address in a template |
 | OK | Assignment1_Planning_Template | `/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Aut...` |  |
 | OK | Assignment1_Readme_Template | `/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Aut...` |  |
 
@@ -154,19 +150,10 @@ worksheet templates on purpose.
 
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
-| PLACEHOLDER | maintenance.md | `http://maintenance.md` | example address in a template |
-| PLACEHOLDER | testing.md | `http://testing.md` | example address in a template |
 | OK | project_planning.md | `/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Aut...` |  |
 | OK | project_readme.md | `/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Aut...` |  |
 | OK | project_planning.md Template | `/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Aut...` |  |
 | OK | project_readme.md Template | `/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring/Web%20Aut...` |  |
-
-## Current Teaching/CS and Machine Learning L5/AIML Web Authoring/Web Authoring Project - ML Project Documentation/project_planning-md Template.md
-
-| Verdict | Link text | Target | Note |
-|---|---|---|---|
-| PLACEHOLDER | maintenance.md | `http://maintenance.md` | example address in a template |
-| PLACEHOLDER | testing.md | `http://testing.md` | example address in a template |
 
 ## Current Teaching/CS and Machine Learning L5/AIML Web Authoring/index.md
 
@@ -221,7 +208,7 @@ worksheet templates on purpose.
 | UNVERIFIED | these | `https://drive.google.com/drive/folders/1uqqf3PgZv7KjqGGVwclC5-OtXE1fuYRk?usp=sharing` | external host unreachable from the sandbox |
 | UNVERIFIED | we went through on tuesday | `https://colab.research.google.com/drive/12t88COQSHkejPvinQh-pflc8STui2d2U?usp=sharing` | external host unreachable from the sandbox |
 | UNVERIFIED | https://playground.tensorflow.org/ | `https://playground.tensorflow.org/` | external host unreachable from the sandbox |
-| UNVERIFIED | https://machinelearningmastery.com/implement-backpropagation | `https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/#` | external host unreachable from the sandbox |
+| UNVERIFIED | https://machinelearningmastery.com/implement-backpropagation | `https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/` | external host unreachable from the sandbox |
 | UNVERIFIED | https://www.kaggle.com/learn/intro-to-machine-learning | `https://www.kaggle.com/learn/intro-to-machine-learning` | external host unreachable from the sandbox |
 | OK | embed | `![[Exploratory_Worksheets.pdf]]` |  |
 | OK | Download Exploratory_Worksheets.pdf | `/assets/Exploratory_Worksheets.pdf` |  |
@@ -243,22 +230,10 @@ worksheet templates on purpose.
 | OK | AIML Web Authoring | `/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring` |  |
 | OK | Mathematics | `/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/Mathematics` |  |
 
-## Current Teaching/L5 Computer Science/Web Authoring and Databases/DRAFT Web Authoring Project Brief 70 percent/Under Construction Resources.md
-
-| Verdict | Link text | Target | Note |
-|---|---|---|---|
-| UNVERIFIED | planning.md | `http://planning.md` | external host unreachable from the sandbox |
-
 ## Current Teaching/L5 Computer Science/Web Authoring and Databases/DRAFT Web Authoring Project Brief 70 percent/index.md
 
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
-| UNVERIFIED | planning.md | `http://planning.md` | external host unreachable from the sandbox |
-| PLACEHOLDER | readme.md | `http://readme.md` | example address in a template |
-| PLACEHOLDER | maintenance.md | `http://maintenance.md` | example address in a template |
-| PLACEHOLDER | readme.md | `http://readme.md` | example address in a template |
-| UNVERIFIED | planning.md | `http://planning.md` | external host unreachable from the sandbox |
-| UNVERIFIED | planning.md | `http://planning.md` | external host unreachable from the sandbox |
 | OK | Under Construction: Resources | `/Current%20Teaching/L5%20Computer%20Science/Web%20Authoring%20and%20Databases/DRAFT%20W...` |  |
 | OK | Under Construction: Resources | `/Current%20Teaching/L5%20Computer%20Science/Web%20Authoring%20and%20Databases/DRAFT%20W...` |  |
 
@@ -274,8 +249,8 @@ worksheet templates on purpose.
 | UNVERIFIED | https://code.visualstudio.com/download | `https://code.visualstudio.com/download` | external host unreachable from the sandbox |
 | OK | DRAFT Web Authoring Project Brief 70% | `/Current%20Teaching/L5%20Computer%20Science/Web%20Authoring%20and%20Databases/DRAFT%20W...` |  |
 | UNVERIFIED | Mozilla Development  Network | `https://developer.mozilla.org/en-US/` | external host unreachable from the sandbox |
-| UNVERIFIED | HTML | `https://en.wikipedia.org/wiki/CSS` | external host unreachable from the sandbox |
-| UNVERIFIED | CSS | `https://en.wikipedia.org/wiki/HTML` | external host unreachable from the sandbox |
+| UNVERIFIED | HTML | `https://en.wikipedia.org/wiki/HTML` | external host unreachable from the sandbox |
+| UNVERIFIED | CSS | `https://en.wikipedia.org/wiki/CSS` | external host unreachable from the sandbox |
 | UNVERIFIED | History of HTML CSS | `https://www3.cs.stonybrook.edu/~pfodor/courses/CSE316/L03-HTML_CSS.pdf` | external host unreachable from the sandbox |
 | UNVERIFIED | https://developer.mozilla.org/en-US/blog/color-models-humans | `https://developer.mozilla.org/en-US/blog/color-models-humans-devices/` | external host unreachable from the sandbox |
 | UNVERIFIED | https://docs.github.com/en/pages/configuring-a-custom-domain | `https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site...` | external host unreachable from the sandbox |
@@ -681,7 +656,7 @@ worksheet templates on purpose.
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
 | UNVERIFIED | https://playground.tensorflow.org/ | `https://playground.tensorflow.org/` | external host unreachable from the sandbox |
-| UNVERIFIED | Resource from | `https://www.3blue1brown.com/?topic=neural-networks` | external host unreachable from the sandbox |
+| UNVERIFIED | Resource from | `https://www.3blue1brown.com/topics/neural-networks` | external host unreachable from the sandbox |
 | UNVERIFIED | equivalent YouTube playlist) | `https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi` | external host unreachable from the sandbox |
 | UNVERIFIED | Welch Labs | `https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU` | external host unreachable from the sandbox |
 
@@ -722,11 +697,10 @@ worksheet templates on purpose.
 
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
-| UNVERIFIED | planning.md | `http://planning.md` | external host unreachable from the sandbox |
-| UNVERIFIED | Did you use [Coolors.co | `http://Coolors.co` | external host unreachable from the sandbox |
-| UNVERIFIED | draw.io | `http://draw.io` | external host unreachable from the sandbox |
-| UNVERIFIED | [draw.io | `http://draw.io` | external host unreachable from the sandbox |
-| UNVERIFIED | [Coolors.co | `http://Coolors.co` | external host unreachable from the sandbox |
+| UNVERIFIED | Did you use [Coolors.co | `https://coolors.co` | external host unreachable from the sandbox |
+| UNVERIFIED | draw.io | `https://www.drawio.com` | external host unreachable from the sandbox |
+| UNVERIFIED | [draw.io | `https://www.drawio.com` | external host unreachable from the sandbox |
+| UNVERIFIED | [Coolors.co | `https://coolors.co` | external host unreachable from the sandbox |
 | UNVERIFIED | Citation 1: e.g., “MDN Web Docs. (2024). HTML: HyperText Mar | `https://developer.mozilla.org/en-US/docs/Web/HTML` | external host unreachable from the sandbox |
 | UNVERIFIED | Citation 1: e.g., “W3C. (2024). CSS Specifications. [https:/ | `https://www.w3.org/Style/CSS/specs.en.html` | external host unreachable from the sandbox |
 
@@ -734,9 +708,8 @@ worksheet templates on purpose.
 
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
-| PLACEHOLDER | readme.md | `http://readme.md` | example address in a template |
-| UNVERIFIED | e.g., “background.jpg: [Unsplash.com | `http://Unsplash.com` | external host unreachable from the sandbox |
-| UNVERIFIED | Tool used, e.g., “Color palette generated with [Coolors.co | `http://Coolors.co` | external host unreachable from the sandbox |
+| UNVERIFIED | e.g., “background.jpg: [Unsplash.com | `https://unsplash.com` | external host unreachable from the sandbox |
+| UNVERIFIED | Tool used, e.g., “Color palette generated with [Coolors.co | `https://coolors.co` | external host unreachable from the sandbox |
 
 ## Teaching Materials/Prior Teaching/2025-2026 Teaching/AIML Web Authoring/Web Authoring Assignment 1 - Portfolio Landing Page/index.md
 
@@ -744,8 +717,6 @@ worksheet templates on purpose.
 |---|---|---|---|
 | OK | planning.md | `/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AIML%20Web%20Authoring/Web%...` |  |
 | OK | readme.md | `/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AIML%20Web%20Authoring/Web%...` |  |
-| UNVERIFIED | planning.md | `http://planning.md` | external host unreachable from the sandbox |
-| PLACEHOLDER | readme.md | `http://readme.md` | example address in a template |
 | OK | Assignment1_Planning_Template | `/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AIML%20Web%20Authoring/Web%...` |  |
 | OK | Assignment1_Readme_Template | `/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AIML%20Web%20Authoring/Web%...` |  |
 
@@ -753,19 +724,10 @@ worksheet templates on purpose.
 
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
-| PLACEHOLDER | maintenance.md | `http://maintenance.md` | example address in a template |
-| PLACEHOLDER | testing.md | `http://testing.md` | example address in a template |
 | OK | project_planning.md | `/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AIML%20Web%20Authoring/Web%...` |  |
 | OK | project_readme.md | `/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AIML%20Web%20Authoring/Web%...` |  |
 | OK | project_planning.md Template | `/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AIML%20Web%20Authoring/Web%...` |  |
 | OK | project_readme.md Template | `/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AIML%20Web%20Authoring/Web%...` |  |
-
-## Teaching Materials/Prior Teaching/2025-2026 Teaching/AIML Web Authoring/Web Authoring Project - ML Project Documentation/project_planning-md Template.md
-
-| Verdict | Link text | Target | Note |
-|---|---|---|---|
-| PLACEHOLDER | maintenance.md | `http://maintenance.md` | example address in a template |
-| PLACEHOLDER | testing.md | `http://testing.md` | example address in a template |
 
 ## Teaching Materials/Prior Teaching/2025-2026 Teaching/AIML Web Authoring/index.md
 
@@ -844,7 +806,7 @@ worksheet templates on purpose.
 | UNVERIFIED | these | `https://drive.google.com/drive/folders/1uqqf3PgZv7KjqGGVwclC5-OtXE1fuYRk?usp=sharing` | external host unreachable from the sandbox |
 | UNVERIFIED | we went through on tuesday | `https://colab.research.google.com/drive/12t88COQSHkejPvinQh-pflc8STui2d2U?usp=sharing` | external host unreachable from the sandbox |
 | UNVERIFIED | https://playground.tensorflow.org/ | `https://playground.tensorflow.org/` | external host unreachable from the sandbox |
-| UNVERIFIED | https://machinelearningmastery.com/implement-backpropagation | `https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/#` | external host unreachable from the sandbox |
+| UNVERIFIED | https://machinelearningmastery.com/implement-backpropagation | `https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/` | external host unreachable from the sandbox |
 | UNVERIFIED | https://www.kaggle.com/learn/intro-to-machine-learning | `https://www.kaggle.com/learn/intro-to-machine-learning` | external host unreachable from the sandbox |
 | OK | embed | `![[Exploratory_Worksheets.pdf]]` |  |
 | OK | Download Exploratory_Worksheets.pdf | `/assets/Exploratory_Worksheets.pdf` |  |
@@ -869,15 +831,7 @@ worksheet templates on purpose.
 
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
-| PLACEHOLDER | yourusername.github.io | `http://yourusername.github.io` | example address in a template |
 | OK | template_github_pages | `/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Personal%20and%20Profession...` |  |
-
-## Teaching Materials/Prior Teaching/2025-2026 Teaching/Personal and Professional Development/Templates and Briefs/Brief_1_GitHub_Pages/template_github_pages.md
-
-| Verdict | Link text | Target | Note |
-|---|---|---|---|
-| PLACEHOLDER | [yourusername.github.io | `http://yourusername.github.io` | example address in a template |
-| PLACEHOLDER | [github.com/yourusername/yourusername.github.io | `http://github.com/yourusername/yourusername.github.io` | example address in a template |
 
 ## Teaching Materials/Prior Teaching/2025-2026 Teaching/Personal and Professional Development/Templates and Briefs/Brief_2_Case_Study/index.md
 
@@ -963,7 +917,7 @@ worksheet templates on purpose.
 | UNVERIFIED | https://www.markdownguide.org | `https://www.markdownguide.org` | external host unreachable from the sandbox |
 | UNVERIFIED | https://docs.github.com/en/get-started/writing-on-github/get | `https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-a...` | external host unreachable from the sandbox |
 | UNVERIFIED | https://www.markdowntutorial.com | `https://www.markdowntutorial.com` | external host unreachable from the sandbox |
-| UNVERIFIED | http://stackedit.io/ | `http://stackedit.io/` | external host unreachable from the sandbox |
+| UNVERIFIED | http://stackedit.io/ | `https://stackedit.io/` | external host unreachable from the sandbox |
 | UNVERIFIED | Check out these templates! | `https://deweydex.github.io/WADB_Tutorials/#templates` | external host unreachable from the sandbox |
 | UNVERIFIED | this video | `https://www.youtube.com/watch?v=LPZh9BOjkQs&vl=en` | external host unreachable from the sandbox |
 | OK | Week1_DeveloperProfile.ipynb | `/assets/Week1_DeveloperProfile.ipynb` |  |
@@ -1013,22 +967,10 @@ worksheet templates on purpose.
 | OK | Download ResearchAndStudySkills5N3113 v2 May 2014.pdf | `/assets/ResearchAndStudySkills5N3113%20v2%20May%202014.pdf` |  |
 | OK | The Humble Banana | `/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Research%20and%20Study%20Sk...` |  |
 
-## Teaching Materials/Prior Teaching/2025-2026 Teaching/Web Authoring and Databases/DRAFT Web Authoring Project Brief 70 percent/Under Construction Resources.md
-
-| Verdict | Link text | Target | Note |
-|---|---|---|---|
-| UNVERIFIED | planning.md | `http://planning.md` | external host unreachable from the sandbox |
-
 ## Teaching Materials/Prior Teaching/2025-2026 Teaching/Web Authoring and Databases/DRAFT Web Authoring Project Brief 70 percent/index.md
 
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
-| UNVERIFIED | planning.md | `http://planning.md` | external host unreachable from the sandbox |
-| PLACEHOLDER | readme.md | `http://readme.md` | example address in a template |
-| PLACEHOLDER | maintenance.md | `http://maintenance.md` | example address in a template |
-| PLACEHOLDER | readme.md | `http://readme.md` | example address in a template |
-| UNVERIFIED | planning.md | `http://planning.md` | external host unreachable from the sandbox |
-| UNVERIFIED | planning.md | `http://planning.md` | external host unreachable from the sandbox |
 | OK | Under Construction: Resources | `/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Web%20Authoring%20and%20Dat...` |  |
 | OK | Under Construction: Resources | `/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Web%20Authoring%20and%20Dat...` |  |
 
@@ -1044,8 +986,8 @@ worksheet templates on purpose.
 | UNVERIFIED | https://code.visualstudio.com/download | `https://code.visualstudio.com/download` | external host unreachable from the sandbox |
 | OK | DRAFT Web Authoring Project Brief 70% | `/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Web%20Authoring%20and%20Dat...` |  |
 | UNVERIFIED | Mozilla Development  Network | `https://developer.mozilla.org/en-US/` | external host unreachable from the sandbox |
-| UNVERIFIED | HTML | `https://en.wikipedia.org/wiki/CSS` | external host unreachable from the sandbox |
-| UNVERIFIED | CSS | `https://en.wikipedia.org/wiki/HTML` | external host unreachable from the sandbox |
+| UNVERIFIED | HTML | `https://en.wikipedia.org/wiki/HTML` | external host unreachable from the sandbox |
+| UNVERIFIED | CSS | `https://en.wikipedia.org/wiki/CSS` | external host unreachable from the sandbox |
 | UNVERIFIED | History of HTML CSS | `https://www3.cs.stonybrook.edu/~pfodor/courses/CSE316/L03-HTML_CSS.pdf` | external host unreachable from the sandbox |
 | UNVERIFIED | https://developer.mozilla.org/en-US/blog/color-models-humans | `https://developer.mozilla.org/en-US/blog/color-models-humans-devices/` | external host unreachable from the sandbox |
 | UNVERIFIED | https://docs.github.com/en/pages/configuring-a-custom-domain | `https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site...` | external host unreachable from the sandbox |

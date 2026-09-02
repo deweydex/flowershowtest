@@ -42,7 +42,7 @@ Validate your HTML and CSS using the W3C validators. These catch syntax errors a
 
 ## Resources
 
-You may consult tutorials, reference materials, and documentation while developing your website. However, all code you submit must be written by you. If you adapt code from a tutorial or other source, document this in your [planning.md](http://planning.md) with proper attribution.
+You may consult tutorials, reference materials, and documentation while developing your website. However, all code you submit must be written by you. If you adapt code from a tutorial or other source, document this in your `planning.md` with proper attribution.
 
 Recommended resources include MDN Web Docs, CSS-Tricks, and W3Schools for technical reference. For design inspiration, study professional websites in your chosen topic area, but do not copy their designs directly.
 

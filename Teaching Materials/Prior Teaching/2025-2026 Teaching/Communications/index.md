@@ -1,4 +1,5 @@
 ---
+showToc: true
 title: "Communications"
 description: "Module for Advanced Ceramics and Design Techniques Level 6"
 ---

@@ -59,7 +59,7 @@ Copy of Table 44
 
 ### Website Requirements
 
-- [ ] Site is live at [yourusername.github.io](http://yourusername.github.io)
+- [ ] Site is live at `yourusername.github.io`
 
 - [ ] Homepage introduces you professionally
 

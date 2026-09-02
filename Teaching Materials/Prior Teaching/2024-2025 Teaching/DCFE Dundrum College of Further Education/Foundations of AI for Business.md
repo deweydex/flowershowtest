@@ -1,4 +1,5 @@
 ---
+showToc: true
 title: "Foundations of AI for Business"
 description: "How to make sense of some of the tools shaping our present."
 ---

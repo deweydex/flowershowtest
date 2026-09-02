@@ -1,4 +1,5 @@
 ---
+showToc: true
 title: "Mathematics"
 description: "Maths for IT and Computational Methods"
 ---
@@ -402,7 +403,7 @@ Josh waxes rhapsodic (says pretty words) about:
 
 - A toy neural network to play around with: [https://playground.tensorflow.org/](https://playground.tensorflow.org/)
 
-- A full implementation of a neural net in python [https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/#](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/#)
+- A full implementation of a neural net in python [https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/#](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
 
 - [https://www.kaggle.com/learn/intro-to-machine-learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 

@@ -58,9 +58,9 @@ Submit GitHub repository URL (same repo from Assignment 1) containing:
 
 - project_readme.md
 
-- [maintenance.md](http://maintenance.md)
+- `maintenance.md`
 
-- [testing.md](http://testing.md)
+- `testing.md`
 
 **Assets:**
 

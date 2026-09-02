@@ -1,4 +1,5 @@
 ---
+showToc: true
 title: "Personal & Professional Development"
 description: "Computer Science and Cyber Security Lv 6"
 ---
@@ -177,7 +178,7 @@ Very slow Markdown Tutorial:
 
 ### Online Markdown Editor
 
-[http://stackedit.io/](http://stackedit.io/) (though you can just edit directly on GitHub)
+[http://stackedit.io/](https://stackedit.io/) (though you can just edit directly on GitHub)
 
 ## Some Key Content:
 

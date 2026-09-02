@@ -1,8 +1,9 @@
 ---
+showToc: true
 title: "Assignment1_Readme_Template"
 ---
 
-# [readme.md](http://readme.md) Template
+# `readme.md` Template
 
 ## Portfolio Landing Page Documentation
 
@@ -255,7 +256,7 @@ repository-name/
 
 - [e.g., “profile.jpg: Personal photo”]
 
-- [e.g., “background.jpg: [Unsplash.com](http://Unsplash.com), photographer John Doe”]
+- [e.g., “background.jpg: [Unsplash.com](https://unsplash.com), photographer John Doe”]
 
 **Fonts:**
 
@@ -263,7 +264,7 @@ repository-name/
 
 **Color scheme:**
 
-- [Tool used, e.g., “Color palette generated with [Coolors.co](http://Coolors.co)”]
+- [Tool used, e.g., “Color palette generated with [Coolors.co](https://coolors.co)”]
 
 **Code snippets or tutorials:**
 

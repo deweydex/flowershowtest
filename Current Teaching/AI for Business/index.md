@@ -1,4 +1,5 @@
 ---
+showToc: true
 title: "AI for Business"
 ---
 

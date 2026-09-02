@@ -110,7 +110,7 @@ Submit a GitHub repository URL containing:
 
 ## Documentation Requirements
 
-### [planning.md](http://planning.md) Must Include
+### `planning.md` Must Include
 
 1. Portfolio purpose and target audience
 
@@ -130,7 +130,7 @@ Submit a GitHub repository URL containing:
 
 1. Explanation of 4 CSS properties you’ll implement
 
-### [readme.md](http://readme.md) Must Include
+### `readme.md` Must Include
 
 1. Overview of portfolio purpose
 
