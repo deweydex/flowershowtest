@@ -4,6 +4,8 @@ title: "Mathematics"
 description: "Maths for IT and Computational Methods"
 ---
 
+This page holds both Maths for IT and Computational Methods for the AI and Machine Learning group. We go from fractions, algebra and trigonometry through calculus, statistics and probability, and we use programming the whole way, ending with neural networks written from scratch. You are assessed through skills demonstrations during the year and college exams at the end, with a formula sheet, and there are practice exams for each. Submissions go through Moodle. The material is below, newest first, and the worksheets live in the [Mathematics repository](https://github.com/deweydex/Mathematics).
+
 # Maths Review & Practice Exams:
 
  [https://github.com/deweydex/Mathematics](https://github.com/deweydex/Mathematics)

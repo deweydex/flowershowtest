@@ -8,6 +8,7 @@ done <<'EOF'
 https://ai.google.dev/gemini-api/docs/prompting-intro
 https://anchoreum.com
 https://api-docs.deepseek.com/
+https://artofproblemsolving.com
 https://artofproblemsolving.com/store/list/all-products
 https://atmamani.github.io/projects/math/math-practical-odyssey-1/
 https://barschazki.com/

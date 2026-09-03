@@ -3,6 +3,8 @@ showToc: true
 title: "AI for Business"
 ---
 
+This module is for the Business groups. It is about what tools like ChatGPT, Gemini and Claude are, what they are not, and how to get useful work out of them: writing structured prompts, comparing what different models do with the same prompt, and checking the output before you rely on it. The main piece of work is the pair querying activity described below, and the assessment brief is on Moodle. The prompt guides linked from this page are the reference. The material is below, newest first.
+
 # Final Week of Class
 
 ## Have a look at the review sheet at the following link:

@@ -1,8 +1,22 @@
 ---
-title: "Assorted Teaching Materials"
+title: "Materials and Earlier Work"
+description: "Where my worksheets, briefs, tutorials and repositories live, and some older work from before Ireland"
 ---
 
-# Teaching Materials: Click on the Titles!
+# Where the materials live
+
+Most of what I make for a class lives in one of three places, and this page is the map.
+
+**On this site, with the course.** Each module under [Current Teaching](/Current%20Teaching) has its own page with the week-by-week material, and the briefs, templates and worksheets sit beside it: for example the [Web Authoring assignment and project templates](/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring), the [Research and Study Skills briefs](/Current%20Teaching/Research%20and%20Study%20Skills) and the [Mathematics worksheets and practice exams](/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/Mathematics). Earlier years are kept as they were under [Prior Teaching](/Teaching%20Materials/Prior%20Teaching), including the Personal and Professional Development templates, the Communications activities and the Foundations of Object Oriented Programming series.
+
+**In public repositories.** Anything I want to be forked, corrected or reused goes on [GitHub](https://github.com/deweydex): [Mathematics](https://github.com/deweydex/Mathematics) for worksheets, [everlearning](https://github.com/deweydex/everlearning) for the integrated programming and maths material, [From ML to AI](https://github.com/deweydex/FromMLtoAI) for the teacher workshops, and [Coding with AI](https://github.com/deweydex/2plus1Coding) for the AI-assisted project activity. The [Current Projects](/Current%20Projects) page says what each one is.
+
+**As tutorial sites.** [Learn HTML, CSS, GitHub and More](https://deweydex.github.io/WADB_Tutorials/) takes you from nothing to a published website, with a shorter [AIML variant](https://deweydex.github.io/AIML_WA/), and the [HTML, CSS and SQL interactive tutorial](https://github.com/deweydex/HTML-CSS-SQL-JS) runs in the browser with a working SQL playground. And there is [dewlab](https://github.com/deweydex/dewlab), where the Python runs in the page you are reading.
+
+Submissions for anything assessed go through Moodle, whatever the module. If you are a teacher and want to use any of this, the [Teaching Materials](/Teaching%20Materials) page says how.
+
+# Earlier Work
+
 
 My teaching and content (and management) styles are informed by progressive education movements in both a European and an American context, though they are also influenced heavily by some truly amazing pedagogues. I owe a great debt to the praxis-oriented methods of Paulo Freire, to ideas around learner independence and self-determination as described by Maria Montessori and John Dewey, and to more modern educational giants such as the creators of Big Picture Learning (Dennis Littky and Elliot Washor), the late but great Sir Ken Robinson, and a few others who I will include in the resources and recommendations section.
 

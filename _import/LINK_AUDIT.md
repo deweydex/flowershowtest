@@ -8,8 +8,8 @@ worksheet templates on purpose.
 
 | Verdict | Count |
 |---|---|
-| OK | 325 |
-| UNVERIFIED | 378 |
+| OK | 344 |
+| UNVERIFIED | 383 |
 | PLACEHOLDER | 0 |
 | BROKEN | 0 |
 
@@ -20,11 +20,20 @@ worksheet templates on purpose.
 | UNVERIFIED | Keith Quille | `https://www.keithquille.com` | external host unreachable from the sandbox |
 | OK | Current Projects | `/Current%20Projects` |  |
 | OK | Teaching Materials | `/Teaching%20Materials` |  |
-| OK | student | `/Teaching%20Materials#for-students` |  |
-| OK | teacher | `/Teaching%20Materials#for-teachers-and-educators` |  |
-| OK | employer | `/Teaching%20Materials#for-employers` |  |
-| OK | parent | `/Teaching%20Materials#for-parents` |  |
+| OK | How My Classes Work | `/Teaching%20Materials/How%20My%20Classes%20Work` |  |
+| OK | FAQ | `/Teaching%20Materials/FAQs%20Frequently%20Asked%20Questions` |  |
+| OK | Current Teaching | `/Current%20Teaching` |  |
+| OK | How I Think About Teaching | `/Teaching%20Materials/Guides/How%20I%20Think%20About%20Teaching` |  |
+| OK | Current Projects | `/Current%20Projects` |  |
+| OK | Materials and Earlier Work | `/Teaching%20Materials/Assorted%20Teaching%20Materials` |  |
+| OK | Guides | `/Teaching%20Materials/Guides` |  |
 | OK | Resources & Recommendations | `/Resources%20and%20Recommendations` |  |
+| OK | joshuaaaron@dcfe.ie | `mailto:joshuaaaron@dcfe.ie` |  |
+
+## Contact.md
+
+| Verdict | Link text | Target | Note |
+|---|---|---|---|
 | OK | joshuaaaron@dcfe.ie | `mailto:joshuaaaron@dcfe.ie` |  |
 
 ## Current Projects.md
@@ -129,6 +138,7 @@ worksheet templates on purpose.
 
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
+| OK | From ML to AI repository | `https://github.com/deweydex/FromMLtoAI` | repository exists |
 | OK | Technical AI Workshops For Teachers | `/Current%20Teaching/AI%20Workshops%20for%20Teachers/Technical%20AI%20Workshops%20For%20...` |  |
 | OK | Non-Technical AI Workshops for Teachers | `/Current%20Teaching/AI%20Workshops%20for%20Teachers/Non-Technical%20AI%20Workshops%20fo...` |  |
 
@@ -198,6 +208,7 @@ worksheet templates on purpose.
 
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
+| OK | Mathematics repository | `https://github.com/deweydex/Mathematics` | repository exists |
 | OK | https://github.com/deweydex/Mathematics | `https://github.com/deweydex/Mathematics` | repository exists |
 | UNVERIFIED | Playlist on Neural Networks | `https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi` | external host unreachable from the sandbox |
 | UNVERIFIED | Playlist on Neural Networks | `https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU` | external host unreachable from the sandbox |
@@ -261,6 +272,7 @@ worksheet templates on purpose.
 
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
+| UNVERIFIED | Learn HTML, CSS, GitHub and More | `https://deweydex.github.io/WADB_Tutorials/` | external host unreachable from the sandbox |
 | UNVERIFIED | https://sqltoerdiagram.com | `https://sqltoerdiagram.com` | external host unreachable from the sandbox |
 | UNVERIFIED | https://www.freecodecamp.org/news/connect-python-with-sql/ | `https://www.freecodecamp.org/news/connect-python-with-sql/` | external host unreachable from the sandbox |
 | UNVERIFIED | world in data | `https://ourworldindata.org` | external host unreachable from the sandbox |
@@ -322,12 +334,6 @@ worksheet templates on purpose.
 |---|---|---|---|
 | OK | Web Authoring & Databases | `/Current%20Teaching/L5%20Computer%20Science/Web%20Authoring%20and%20Databases` |  |
 
-## Current Teaching/My Calendar.md
-
-| Verdict | Link text | Target | Note |
-|---|---|---|---|
-| OK | Joshua Aaron Timetable.png | `/assets/Joshua%20Aaron%20Timetable.png` |  |
-
 ## Current Teaching/Research and Study Skills/The Humble Banana/Pick Your Frame.md
 
 | Verdict | Link text | Target | Note |
@@ -384,6 +390,7 @@ worksheet templates on purpose.
 | UNVERIFIED | Codecademy | `https://www.codecademy.com` | external host unreachable from the sandbox |
 | UNVERIFIED | Brilliant | `https://brilliant.org` | external host unreachable from the sandbox |
 | UNVERIFIED | Khan Academy | `https://www.khanacademy.org` | external host unreachable from the sandbox |
+| UNVERIFIED | Art of Problem Solving | `https://artofproblemsolving.com` | external host unreachable from the sandbox |
 | UNVERIFIED | freeCodeCamp | `https://www.freecodecamp.org` | external host unreachable from the sandbox |
 | UNVERIFIED | Think Python | `https://greenteapress.com/wp/think-python-3rd-edition/` | external host unreachable from the sandbox |
 | UNVERIFIED | Python for Everybody | `https://www.py4e.com/book` | external host unreachable from the sandbox |
@@ -405,15 +412,40 @@ worksheet templates on purpose.
 
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
+| OK | Current Teaching | `/Current%20Teaching` |  |
+| OK | Web Authoring assignment and project templates | `/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/AIML%20Web%20Authoring` |  |
+| OK | Research and Study Skills briefs | `/Current%20Teaching/Research%20and%20Study%20Skills` |  |
+| OK | Mathematics worksheets and practice exams | `/Current%20Teaching/CS%20and%20Machine%20Learning%20L5/Mathematics` |  |
+| OK | Prior Teaching | `/Teaching%20Materials/Prior%20Teaching` |  |
+| UNVERIFIED | GitHub | `https://github.com/deweydex` |  |
+| OK | Mathematics | `https://github.com/deweydex/Mathematics` | repository exists |
+| OK | everlearning | `https://github.com/deweydex/everlearning` | repository exists |
+| OK | From ML to AI | `https://github.com/deweydex/FromMLtoAI` | repository exists |
+| OK | Coding with AI | `https://github.com/deweydex/2plus1Coding` | repository exists |
+| OK | Current Projects | `/Current%20Projects` |  |
+| UNVERIFIED | Learn HTML, CSS, GitHub and More | `https://deweydex.github.io/WADB_Tutorials/` | external host unreachable from the sandbox |
+| UNVERIFIED | AIML variant | `https://deweydex.github.io/AIML_WA/` | external host unreachable from the sandbox |
+| OK | HTML, CSS and SQL interactive tutorial | `https://github.com/deweydex/HTML-CSS-SQL-JS` | repository exists |
+| OK | dewlab | `https://github.com/deweydex/dewlab` | repository exists |
+| OK | Teaching Materials | `/Teaching%20Materials` |  |
 | UNVERIFIED | Measuring the World: an Introduction to Modeling and Scienti | `https://drive.google.com/drive/folders/1dibQOpgwlpSpJU7l-uR6bGy7D0wUMHWe?usp=sharing` | external host unreachable from the sandbox |
 | UNVERIFIED | Fun With Functions (11th–12th Grade) | `https://drive.google.com/drive/folders/16Bz6coMwbUoDRcGf0YDKx-LD3TGtUxeT?usp=sharing` | external host unreachable from the sandbox |
 | UNVERIFIED | Evaluation of the Impact of Comics on Exam Performance: Link | `https://drive.google.com/file/d/1i0CFLTwQjzXxcDtNhcS9xcjyuB5SinQK/view?usp=share_link` | external host unreachable from the sandbox |
 | UNVERIFIED | Socio-Emotional Learning in STEM Contexts: Link to Workshops | `https://jsaaron.carrd.co/#` | external host unreachable from the sandbox |
 
+## Teaching Materials/FAQs Frequently Asked Questions.md
+
+| Verdict | Link text | Target | Note |
+|---|---|---|---|
+| OK | How My Classes Work | `/Teaching%20Materials/How%20My%20Classes%20Work` |  |
+| OK | Current Teaching | `/Current%20Teaching` |  |
+| OK | Resources | `/Resources%20and%20Recommendations` |  |
+
 ## Teaching Materials/Guides/How I Think About Teaching.md
 
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
+| OK | dewlab | `/Current%20Projects` |  |
 | OK | Resources and Recommendations | `/Resources%20and%20Recommendations` |  |
 
 ## Teaching Materials/Guides/How to Learn Programming/index.md
@@ -434,18 +466,12 @@ worksheet templates on purpose.
 | OK | How to Learn Computer Science | `/Teaching%20Materials/Guides/How%20to%20Learn%20Computer%20Science` |  |
 | OK | Learning Math through Programming | `/Teaching%20Materials/Guides/Learning%20Math%20through%20Programming` |  |
 
-## Teaching Materials/Handouts and Assignments/index.md
+## Teaching Materials/How My Classes Work.md
 
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
-| OK | Independent Learning Plan | `/Teaching%20Materials/Handouts%20and%20Assignments/Independent%20Learning%20Plan` |  |
-
-## Teaching Materials/Norms and Expectations.md
-
-| Verdict | Link text | Target | Note |
-|---|---|---|---|
-| OK | here | `/Teaching%20Materials/Handouts%20and%20Assignments` |  |
-| OK | handout | `/Teaching%20Materials/Handouts%20and%20Assignments` |  |
+| OK | FAQ | `/Teaching%20Materials/FAQs%20Frequently%20Asked%20Questions` |  |
+| OK | Current Teaching | `/Current%20Teaching` |  |
 
 ## Teaching Materials/Prior Teaching/2024-2025 Teaching/BFEI Blackrock Further Education Institute/Foundations of Object Oriented Programming (FOOP)/Learning CSharp.md
 
@@ -534,9 +560,9 @@ worksheet templates on purpose.
 |---|---|---|---|
 | OK | joshuaaaron@dcfe.ie | `mailto:joshuaaaron@dcfe.ie` |  |
 | OK | joshuaaaron@bfei.ie | `mailto:joshuaaaron@bfei.ie` |  |
-| OK | Independent Learning Plan | `/Teaching%20Materials/Handouts%20and%20Assignments/Independent%20Learning%20Plan` |  |
+| OK | Independent Learning Plan | `/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/DCFE%20Dundrum%20College%20...` |  |
 | UNVERIFIED | this Link | `https://www.linkedin.com/learning-login/share?account=237718738&forceAccount=true&redir...` | external host unreachable from the sandbox |
-| OK | Independent Learning Plan Template | `/Teaching%20Materials/Handouts%20and%20Assignments/Independent%20Learning%20Plan` |  |
+| OK | Independent Learning Plan Template | `/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/DCFE%20Dundrum%20College%20...` |  |
 | UNVERIFIED | this link | `https://www.linkedin.com/learning-login/share?account=237718738&forceAccount=true&redir...` | external host unreachable from the sandbox |
 
 ## Teaching Materials/Prior Teaching/2024-2025 Teaching/DCFE Dundrum College of Further Education/Maths for IT/index.md
@@ -571,7 +597,7 @@ worksheet templates on purpose.
 | UNVERIFIED | this practice sheet | `https://www.monroeu.edu/sites/default/files/documents/2020/01/31/placementexamreview.pdf` | external host unreachable from the sandbox |
 | UNVERIFIED | informal self-assessment | `https://iscontent.byu.edu/Canvas/MATH-110/MATH-110-M004/HTML/0_PlacementH5P.html` | external host unreachable from the sandbox |
 | UNVERIFIED | This link | `https://forms.office.com/e/huXkP8EbkC` | external host unreachable from the sandbox |
-| OK | check out this page | `/Teaching%20Materials/Handouts%20and%20Assignments/Independent%20Learning%20Plan` |  |
+| OK | check out this page | `/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/DCFE%20Dundrum%20College%20...` |  |
 | UNVERIFIED | can be found here | `https://www.khanacademy.org/join/BDBED472` | external host unreachable from the sandbox |
 | OK | End of Year Reflections | `/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/DCFE%20Dundrum%20College%20...` |  |
 
@@ -606,7 +632,7 @@ worksheet templates on purpose.
 | UNVERIFIED | Sample Database Project (V2) | `https://colab.research.google.com/drive/14RpqlLqCWD4TrICljFePm6MkrI3-akX6?usp=sharing` | external host unreachable from the sandbox |
 | UNVERIFIED | ipywidgets | `https://colab.research.google.com/drive/17VJVRy8p8lNz-AAFh3Si2mNoZbBUTCxQ?usp=sharing` | external host unreachable from the sandbox |
 | UNVERIFIED | Hugo | `https://gohugo.io/` | external host unreachable from the sandbox |
-| OK | Independent Learning Plan | `/Teaching%20Materials/Handouts%20and%20Assignments/Independent%20Learning%20Plan` |  |
+| OK | Independent Learning Plan | `/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/DCFE%20Dundrum%20College%20...` |  |
 | OK | embed | `![[WAAssignment1 2024.pdf]]` |  |
 | OK | Download WAAssignment1 2024.pdf | `/assets/WAAssignment1%202024.pdf` |  |
 | UNVERIFIED | https://www.codecademy.com/catalog/language/html-css | `https://www.codecademy.com/catalog/language/html-css` | external host unreachable from the sandbox |
@@ -865,12 +891,6 @@ worksheet templates on purpose.
 | UNVERIFIED | Oxford Assessment | `https://www.maths.ox.ac.uk/study-here/undergraduate-study/maths-admissions-test` | external host unreachable from the sandbox |
 | OK | Somewhat-Traditional Worksheets | `/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Mathematics/Somewhat-Tradit...` |  |
 
-## Teaching Materials/Prior Teaching/2025-2026 Teaching/My Calendar.md
-
-| Verdict | Link text | Target | Note |
-|---|---|---|---|
-| OK | Joshua Aaron Timetable.png | `/assets/Joshua%20Aaron%20Timetable.png` |  |
-
 ## Teaching Materials/Prior Teaching/2025-2026 Teaching/Personal and Professional Development/Templates and Briefs/Brief_1_GitHub_Pages/index.md
 
 | Verdict | Link text | Target | Note |
@@ -1081,7 +1101,6 @@ worksheet templates on purpose.
 
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
-| OK | My Calendar | `/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/My%20Calendar` |  |
 | OK | Communications | `/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Communications` |  |
 | OK | Research & Study Skills | `/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Research%20and%20Study%20Sk...` |  |
 | OK | AI for Business | `/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AI%20for%20Business` |  |
@@ -1103,15 +1122,15 @@ worksheet templates on purpose.
 
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
-| OK | Assorted Teaching Materials page | `/Teaching%20Materials/Assorted%20Teaching%20Materials` |  |
-| UNVERIFIED | Paper.co | `https://paper.co` | external host unreachable from the sandbox |
+| OK | How My Classes Work | `/Teaching%20Materials/How%20My%20Classes%20Work` |  |
+| OK | FAQ | `/Teaching%20Materials/FAQs%20Frequently%20Asked%20Questions` |  |
+| OK | Current Teaching | `/Current%20Teaching` |  |
 | OK | How I Think About Teaching | `/Teaching%20Materials/Guides/How%20I%20Think%20About%20Teaching` |  |
-| OK | How I Recommend Learning to Learn | `/Teaching%20Materials/Guides/How%20I%20Recommend%20Learning%20to%20Learn` |  |
-| OK | Assorted Teaching Materials | `/Teaching%20Materials/Assorted%20Teaching%20Materials` |  |
-| OK | Norms & Expectations | `/Teaching%20Materials/Norms%20and%20Expectations` |  |
-| OK | Assessments | `/Teaching%20Materials/Assessments` |  |
-| OK | Writing & Reading | `/Teaching%20Materials/Writing%20and%20Reading` |  |
-| OK | Handouts and Assignments | `/Teaching%20Materials/Handouts%20and%20Assignments` |  |
-| OK | Guides | `/Teaching%20Materials/Guides` |  |
+| OK | Materials and Earlier Work | `/Teaching%20Materials/Assorted%20Teaching%20Materials` |  |
+| UNVERIFIED | Paper.co | `https://paper.co` | external host unreachable from the sandbox |
+| OK | contact form | `/Contact` |  |
+| OK | How My Classes Work | `/Teaching%20Materials/How%20My%20Classes%20Work` |  |
 | OK | FAQs: Frequently Asked Questions | `/Teaching%20Materials/FAQs%20Frequently%20Asked%20Questions` |  |
+| OK | Guides | `/Teaching%20Materials/Guides` |  |
+| OK | Materials and Earlier Work | `/Teaching%20Materials/Assorted%20Teaching%20Materials` |  |
 | OK | Prior Teaching | `/Teaching%20Materials/Prior%20Teaching` |  |
