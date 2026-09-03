@@ -10,7 +10,8 @@ This page is under construction, as I figure out how best to provide context for
 - [Codecademy](https://www.codecademy.com): interactive lessons in the browser, good for a first week in a new language.
 - [Brilliant](https://brilliant.org): short interactive problems in maths, logic and computer science.
 - [Khan Academy](https://www.khanacademy.org): free courses from arithmetic to calculus, and a good place to fill a gap you did not know you had.
-- The Art of Programming
+- *The Art of Computer Programming*, Donald Knuth: not a book to read from cover to cover, but the one to open when you want to know why an algorithm works and how anyone ever thought of it.
+- [Art of Problem Solving](https://artofproblemsolving.com): the same people as the maths books below. Their problem-solving habits carry straight over into programming, and their community forum is one of the few worth reading.
 - [freeCodeCamp](https://www.freecodecamp.org): a free curriculum in web development, and a good set of articles on almost everything else.
 - [Think Python](https://greenteapress.com/wp/think-python-3rd-edition/), Allen Downey: the book I recommend most often to a beginner who wants to understand rather than copy.
 - [Python for Everybody](https://www.py4e.com/book), Charles Severance: free, gentle, and built around real data.
@@ -20,7 +21,7 @@ This page is under construction, as I figure out how best to provide context for
 
 # Resources for Learning Math(s)
 
-- [Art of Problem Solving books](https://artofproblemsolving.com/store/list/all-products): the best written maths books I know for somebody who wants to think rather than calculate.
+- [Art of Problem Solving books](https://artofproblemsolving.com/store/list/all-products): the best written maths books I know for somebody who wants to think rather than calculate. Start with *Prealgebra* or *Introduction to Algebra*, whatever your age; the point is the way of working, and the later volumes go all the way to calculus.
 - [3Blue1Brown](https://www.3blue1brown.com): visual explanations of linear algebra, calculus and neural networks that change how the subject looks.
 - [Khan Academy](https://www.khanacademy.org/math): for practice, from the basics up.
 - [Paul's Online Math Notes](https://tutorial.math.lamar.edu): clear, free notes and worked problems from algebra through differential equations.
