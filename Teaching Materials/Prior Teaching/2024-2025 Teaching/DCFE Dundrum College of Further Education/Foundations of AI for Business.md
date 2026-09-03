@@ -290,7 +290,7 @@ For the remainder of this course we will begin to use Individualized Learning Pl
 
 We will use a form to start creating our learning plan, and every few weeks we will reassess, see how the last plan went, and think through next steps. At the link below you can find some more description of what an independent learning plan looks like, and at the second link you will find a form where you can begin writing. **Please select that you would like to receive a copy of your responses or print-to-PDF so that you can maintain access to your responses!**
 
-[Independent Learning Plan](/Teaching%20Materials/Handouts%20and%20Assignments/Independent%20Learning%20Plan)
+[Independent Learning Plan](/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/DCFE%20Dundrum%20College%20of%20Further%20Education/Independent%20Learning%20Plan)
 
 ## Loose Structure of Course:
 
@@ -414,7 +414,7 @@ Welcome back from break! For today we will be exploring LinkedIn Learning and co
 
 1. Have a look around! What courses might be interesting to you? Let’s think about what each of your independent learning plans might be for the next few months as we move into applying what we have learned about Prompts to various AI tools.
 
-1. Toward the end of our session, let’s reflect on what we have done so far and what you would like to accomplish over the next few weeks individually. If you are up for it, have a look at the [Independent Learning Plan Template](/Teaching%20Materials/Handouts%20and%20Assignments/Independent%20Learning%20Plan).
+1. Toward the end of our session, let’s reflect on what we have done so far and what you would like to accomplish over the next few weeks individually. If you are up for it, have a look at the [Independent Learning Plan Template](/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/DCFE%20Dundrum%20College%20of%20Further%20Education/Independent%20Learning%20Plan).
 
 1. Have a look at this video over the next week! Feel free to pause and ponder, rewatch parts that don’t make sense or note your questions for class! https://www.youtube.com/watch?v=LPZh9BOjkQs
 

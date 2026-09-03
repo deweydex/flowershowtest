@@ -4,6 +4,8 @@ title: "Web Authoring & Databases"
 description: "Web Authoring and Databases for CompSci L5"
 ---
 
+This module is for the Level 5 Computer Science group. In the first half we build a website from nothing in HTML and CSS and publish it on GitHub Pages; in the second half we move to databases, SQL and a little Python to query them. You are assessed on a web authoring project, a database project and a practical exam, all set by the college. Everything you submit goes through Moodle. The week-by-week material is below, newest first, and the tutorials we use are at [Learn HTML, CSS, GitHub and More](https://deweydex.github.io/WADB_Tutorials/).
+
 # Other Resources:
 
 [https://sqltoerdiagram.com](https://sqltoerdiagram.com)

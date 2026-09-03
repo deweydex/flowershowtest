@@ -29,7 +29,7 @@ Sqlite practice
 
 # Planning for Project
 
-[Independent Learning Plan](/Teaching%20Materials/Handouts%20and%20Assignments/Independent%20Learning%20Plan)
+[Independent Learning Plan](/Teaching%20Materials/Prior%20Teaching/2024-2025%20Teaching/DCFE%20Dundrum%20College%20of%20Further%20Education/Independent%20Learning%20Plan)
 
 # Please look at Moodle for up to date information!
 

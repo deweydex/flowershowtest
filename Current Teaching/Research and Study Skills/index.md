@@ -4,6 +4,8 @@ title: "Research & Study Skills"
 description: "For Forensics, Criminology and Psychology"
 ---
 
+This module is for the Forensics, Criminology and Psychology groups. It is about how to tell good information from bad: evaluating sources, understanding how research is designed, and reading news and media with some scepticism. There are three briefs, the Banana Project, the News Media Sustainability Project and a Reflection Portfolio, and they are the assessment. Everything is submitted on Moodle. The week-by-week material is below, newest first.
+
 Click or tap the little triangle/arrow on the left to collapse/expand the content.
 
 ### Brief 1: Banana Project: Due January 10th

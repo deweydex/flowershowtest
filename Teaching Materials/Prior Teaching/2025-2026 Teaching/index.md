@@ -5,7 +5,6 @@ description: "Teaching for the 2025-2026 Year"
 
 ## Pages in this section
 
-- [My Calendar](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/My%20Calendar): Where to find me during the week
 - [Communications](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Communications): Module for Advanced Ceramics and Design Techniques Level 6
 - [Research & Study Skills](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/Research%20and%20Study%20Skills): For Forensics, Criminology and Psychology
 - [AI for Business](/Teaching%20Materials/Prior%20Teaching/2025-2026%20Teaching/AI%20for%20Business)

@@ -5,6 +5,8 @@ already know, without guessing at your voice. Short answers are fine; a
 sentence or two per question is plenty, and "drop it" is a valid answer.
 Grouped by the page they feed.
 
+Status, 3 September 2026: answered and acted on: 1, 2, 4, 5, 6, 7, 8, 9, 13-15 (draft written), 22, 27-30. Deferred by Josh: 10-12, 16-21, 23-26. Reverted at Josh's request: 3. Still open: 31-40.
+
 ## Home page
 
 1. The bio now reads "I have since completed an MSc in Human Centred

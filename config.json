@@ -9,16 +9,24 @@
         "href": "/Current%20Teaching"
       },
       {
+        "name": "Current Projects",
+        "href": "/Current%20Projects"
+      },
+      {
         "name": "Teaching Materials",
         "href": "/Teaching%20Materials"
       },
       {
-        "name": "Short-form Guides",
-        "href": "/Short-form%20Guides"
+        "name": "Guides",
+        "href": "/Teaching%20Materials/Guides"
       },
       {
         "name": "Resources",
         "href": "/Resources%20and%20Recommendations"
+      },
+      {
+        "name": "Contact",
+        "href": "/Contact"
       }
     ]
   },
@@ -33,17 +41,50 @@
     "showModeSwitch": true
   },
   "contentHide": [
-    "/Contact.md",
-    "/Current Teaching/My Calendar.md",
     "/Current Teaching/Research and Study Skills/The Humble Banana/Pick Your Frame.md",
-    "/Random Writings.md",
-    "/Scratch paper.md",
-    "/Teaching Materials/Learning Student Backgrounds.md",
     "/Teaching Materials/Prior Teaching/2024-2025 Teaching/DCFE Dundrum College of Further Education/Maths for IT/Maths for IT Problem Set 1.md",
     "/Teaching Materials/Prior Teaching/2025-2026 Teaching/Research and Study Skills/The Humble Banana/Pick Your Frame.md"
   ],
   "head": "<script defer src=\"https://tally.so/widgets/embed.js\"></script>",
   "contentExclude": [
     "/_import"
+  ],
+  "redirects": [
+    {
+      "from": "/Teaching+Materials/Norms+and+Expectations",
+      "to": "/Teaching+Materials/How+My+Classes+Work"
+    },
+    {
+      "from": "/Teaching+Materials/Assessments",
+      "to": "/Teaching+Materials/How+My+Classes+Work"
+    },
+    {
+      "from": "/Teaching+Materials/Writing+and+Reading",
+      "to": "/Teaching+Materials/How+My+Classes+Work"
+    },
+    {
+      "from": "/Teaching+Materials/Handouts+and+Assignments",
+      "to": "/Teaching+Materials/Assorted+Teaching+Materials"
+    },
+    {
+      "from": "/Teaching+Materials/Handouts+and+Assignments/Independent+Learning+Plan",
+      "to": "/Teaching+Materials/Prior+Teaching/2024-2025+Teaching/DCFE+Dundrum+College+of+Further+Education/Independent+Learning+Plan"
+    },
+    {
+      "from": "/Teaching+Materials/Learning+Student+Backgrounds",
+      "to": "/Teaching+Materials/Guides/How+I+Think+About+Teaching"
+    },
+    {
+      "from": "/Random+Writings",
+      "to": "/Teaching+Materials/Guides/How+I+Think+About+Teaching"
+    },
+    {
+      "from": "/Scratch+paper",
+      "to": "/Teaching+Materials/How+My+Classes+Work"
+    },
+    {
+      "from": "/Short-form+Guides",
+      "to": "/Teaching+Materials/Guides"
+    }
   ]
 }

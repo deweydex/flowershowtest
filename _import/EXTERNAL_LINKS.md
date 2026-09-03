@@ -143,3 +143,12 @@ barschazki.com is a person's portfolio.
 
 None remain as links. The example addresses inside the assignment
 templates (`yourusername.github.io`, `planning.md`) are now plain text.
+
+## Added in the September 2026 content round (unverified from the sandbox)
+
+| Address | Verdict | Note |
+|---|---|---|
+| https://www.keithquille.com | CHECK | Supervisor link on the home page and Current Projects; confirm this is his site. |
+| https://deweydex.github.io/2plus1Coding | KEEP | Named in that repository's README. |
+| https://brilliant.org, https://www.codecademy.com, https://www.khanacademy.org/math, https://tutorial.math.lamar.edu, https://www.3blue1brown.com, https://thecrashcourse.com/topic/literature/ | KEEP | Resources page. |
+| https://www.youtube.com/@theartassignment, @3blue1brown, @crashcourse | CHECK | Channel handles; a wrong handle returns a 404. |

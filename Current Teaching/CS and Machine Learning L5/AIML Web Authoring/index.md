@@ -3,6 +3,8 @@ title: "AIML Web Authoring"
 description: "Material specific to the AIML Web Authoring Class"
 ---
 
+This module is for the AI and Machine Learning group, and it is the same web authoring module as the Computer Science class with the material tailored to what you are doing elsewhere in your programme. You build a portfolio landing page first, then a site that documents a machine learning project of your own. You are assessed in the same way as the other web authoring class, and the briefs and templates are linked from this page. Submissions go through Moodle. If anything about grading is unclear, ask me in class or by email.
+
 # How to convert your jupyter notebooks to html and make your web authoring project easier (and some things to think about):
 
 This material is specific to the AIML Web Authoring Class, you will be evaluated in the same manner as the other Web Authoring class, but the goal is to have the material more specifically tailor to what you are doing in your other classes. The briefs you see here are in two versions: the official brief, and the suggested guide that we will use to build up our web portfolios over the coming months. If you have any questions or concerns about grading or assessment, feel free to send me an email or discuss things with me either in class or in a separate appointment.

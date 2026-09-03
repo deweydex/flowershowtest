@@ -1,5 +1,5 @@
 ---
-title: "Norms & Expectations"
+title: "How My Classes Work"
 description: "Lots of words about how we will make a little learning community"
 ---
 
@@ -9,7 +9,7 @@ Let me start by saying what this text is not: this is not a list of rules. Ours 
 
 # Short Version: Mutual Respect + Communication + Self-Honesty
 
-You are welcome to read the words below, or refer to the FAQs section (which may or may not be under construction) but the general way that I conduct my classes is less about rules and more about norms and equitable treatment. Ours is a group made up of (young) adults, meaning that everyone is in my class because they seek to achieve a certain goal. What that goal is likely depends (at least somewhat) on the individual, though it is likely partially dictated by the educational and economic structure in which we find ourselves.
+You are welcome to read the words below, or refer to the [FAQ](/Teaching%20Materials/FAQs%20Frequently%20Asked%20Questions), but the general way that I conduct my classes is less about rules and more about norms and equitable treatment. Ours is a group made up of (young) adults, meaning that everyone is in my class because they seek to achieve a certain goal. What that goal is likely depends (at least somewhat) on the individual, though it is likely partially dictated by the educational and economic structure in which we find ourselves.
 
 I genuinely want you, and every student in our class, to succeed. That success needs to take into account where each learner starts and how far they have progressed. With this in mind, my assessments tend to either use online resources or are project based. Both require you to demonstrate mastery of certain competencies, but both do not involve terminal grades after one attempt, but rather a variety of opportunities for improvement. As in all things, the more effort you put in, the more you engage with the material and methods in this course, and the more you demonstrate that effort and engagement through participation, submission of assignments, and reflections, the more easily I can see what you have learned, the more easily I can intuit where you might need some extra assistance or resources, and the more time and flexibility I will be willing to give you.
 
@@ -31,7 +31,7 @@ If I am absent for more than one class we will work on what make-up work looks l
 
 # Communication and Professionalism
 
-In general we will use (Moodle?) as well as email for communication about our work together. Handouts will appear on Moodle but can also be found [here](/Teaching%20Materials/Handouts%20and%20Assignments) (and should be sent to your email once settings have been so configured). The following are some general ideas about communication as well as specific norms that will help us to communicate better, both between teacher and student and amongst yourselves as students.
+In general we will use Moodle as well as email for communication about our work together. Handouts will appear on Moodle and on the page for your course under [Current Teaching](/Current%20Teaching). The following are some general ideas about communication as well as specific norms that will help us to communicate better, both between teacher and student and amongst yourselves as students.
 
 How we communicate in a given context depends on lots of factors big and small: everything from our age, mother-tongue, dialect, upbringing, culture and prior educational and professional experiences shape how we speak and write to each other. Today, sometimes it can be difficult to understand how to address people in different circumstances. During my courses I try to include a day where we discuss communication, but I can give a brief overview of expectations here. The general idea is to think of all communications we share as taking place within a professional context.
 
@@ -39,11 +39,23 @@ How we communicate in a given context depends on lots of factors big and small: 
 
 1. In written communication we will use capitalization (especially of words like I and proper nouns) and be as grammatical as possible (sometimes, when discussing math and computer science terms, grammar can be confusing!). If you need any advice or help with your writing, there are lots of great tools online (Grammarly for example) and there are plenty of folks who can help around, just ask!
 
-1. We want to explain answers to problems and questions, no matter the subject; this means more than showing your work, it also means “teaching to the page” which we will discuss more in class, and in an upcoming [handout](/Teaching%20Materials/Handouts%20and%20Assignments).
+1. We want to explain answers to problems and questions, no matter the subject; this means more than showing your work, it also means “teaching to the page” which we will discuss more in class.
 
 # Submissions
 
-To be determined based on platform constraints: short answer, on Moodle.
+Everything you submit goes through Moodle, and the brief for each assignment or project says what to submit and by when. Beyond the where and the when, I have a few principles about what makes a submission useful to both of us, and I will write them up here soon.
+
+# Assessment
+
+As my students come from diverse backgrounds, with equally diverse expectations, a few assumptions and questions keep coming up regarding testing, exams, assessment, and grading.
+
+To that end, let us briefly go through what assessment is for: the educational models of the day distinguish between two (broadly speaking) types of assessment, formative and summative. This distinction focuses on the difference between assessments during the learning process and as a conclusion to a topic. In our classes we will have what is sometimes (unfortunately) called *continuous assessment*. This means that each week you will have a few different things to do: a reflection, a set of problems to complete, and a set of problems to generate (create, or literally make up) on your own. The latter two will comprise your assessment for a given section.
+
+The bigger pieces, skills demonstrations, projects and (in some modules) college exams, are set by the module and appear on Moodle with their dates. None of them is meant to be a one-shot judgement. Where I can, I give practice versions beforehand and feedback afterwards, and where the module allows it, more than one attempt. The point of an assessment is to show me what you have learned and where you might need something more, and to show you the same thing.
+
+# Writing and Reading
+
+Writing, in the form of reflections, project logs and check-ins, and reading are important parts of my classes, whatever the subject. These are not graded for content, but experience shows that students who engage in them tend to perform significantly better on standardized assessments, not to mention succeed more readily in the course overall. Writing is where your thinking becomes visible to you, which is also why we explain answers rather than just show them. Your reflections on your learning adventures are just as valuable as what you learned!
 
 # Notes and Note Taking
 
