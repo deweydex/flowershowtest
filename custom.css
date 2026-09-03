@@ -391,3 +391,22 @@
   border-radius: var(--radius);
   background: var(--dl-panel-bg);
 }
+
+/* ---------------------------------------------------------- logo */
+
+/* The octopus is black line art on a transparent ground. In dark mode the
+   lines invert to white; the mark is a touch larger than Flowershow's 2rem. */
+.site-navbar-site-logo {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+:root[data-theme="dark"] .site-navbar-site-logo {
+  filter: invert(1);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .site-navbar-site-logo {
+    filter: invert(1);
+  }
+}
