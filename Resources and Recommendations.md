@@ -11,7 +11,7 @@ This page is under construction, as I figure out how best to provide context for
 - [Brilliant](https://brilliant.org): short interactive problems in maths, logic and computer science.
 - [Khan Academy](https://www.khanacademy.org): free courses from arithmetic to calculus, and a good place to fill a gap you did not know you had.
 - *The Art of Computer Programming*, Donald Knuth: not a book to read from cover to cover, but the one to open when you want to know why an algorithm works and how anyone ever thought of it.
-- [Art of Problem Solving](https://artofproblemsolving.com): the same people as the maths books below. Their problem-solving habits carry straight over into programming, and their community forum is one of the few worth reading.
+- [Art of Problem Solving](https://artofproblemsolving.com): the same people as the maths books below. Their problem-solving habits carry straight over into programming.
 - [freeCodeCamp](https://www.freecodecamp.org): a free curriculum in web development, and a good set of articles on almost everything else.
 - [Think Python](https://greenteapress.com/wp/think-python-3rd-edition/), Allen Downey: the book I recommend most often to a beginner who wants to understand rather than copy.
 - [Python for Everybody](https://www.py4e.com/book), Charles Severance: free, gentle, and built around real data.
