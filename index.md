@@ -21,7 +21,7 @@ That page has an unexpectedly growing variety of sub-pages on different subjects
 
 # Contact Form
 
-For work outside my own classroom, whether content, curriculum design, workshops or something neither of us has thought of yet, tell me what you have in mind and, if you can, when you need it by. If you are a public school or a nonprofit and worried about cost, say so: transparency builds trust, and we will come up with an arrangement that suits you.
+Thanks for reaching out! For inquiries relating to content, curriculum design or other opportunities, I would greatly appreciate some indication of your timeline and budget, in addition to whatever project description you feel comfortable sharing. If you represent a public school or nonprofit and are worried about costs, never fear: transparency builds trust, and I am confident that we can come up with an arrangement that suits your organisation's context.
 
 <iframe data-tally-src="https://tally.so/embed/jaEkDJ?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="700" frameborder="0" marginheight="0" marginwidth="0" title="Contact Josh Aaron"></iframe>
 
