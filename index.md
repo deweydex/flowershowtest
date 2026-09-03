@@ -1,4 +1,5 @@
 ---
+showSidebar: false
 title: "Joshua Aaron's Home Page"
 description: "I am an insatiable learner based in Ireland by way of Montreal, Los Angeles and Berlin. If you are looking for my teaching material, thoughts on education, or ways to contact me for work outside of direct teaching, you came to the right place!"
 ---
