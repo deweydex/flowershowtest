@@ -9,12 +9,16 @@
         "href": "/Current%20Teaching"
       },
       {
+        "name": "Current Projects",
+        "href": "/Current%20Projects"
+      },
+      {
         "name": "Teaching Materials",
         "href": "/Teaching%20Materials"
       },
       {
-        "name": "Short-form Guides",
-        "href": "/Short-form%20Guides"
+        "name": "Guides",
+        "href": "/Teaching%20Materials/Guides"
       },
       {
         "name": "Resources",

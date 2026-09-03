@@ -12,6 +12,7 @@ https://artofproblemsolving.com/store/list/all-products
 https://atmamani.github.io/projects/math/math-practical-odyssey-1/
 https://barschazki.com/
 https://blog.google/outreach-initiatives/education/google-ai-literacy-tools-2025/
+https://brilliant.org
 https://carrd.co
 https://code.visualstudio.com/docs/languages/polyglot
 https://code.visualstudio.com/download
@@ -57,6 +58,7 @@ https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML
 https://developer.mozilla.org/en-US/docs/Learn/HTML
 https://developer.mozilla.org/en-US/docs/Learn_web_development
 https://developer.mozilla.org/en-US/docs/Web/HTML
+https://deweydex.github.io/2plus1Coding
 https://deweydex.github.io/AIML_WA/
 https://deweydex.github.io/WADB_Tutorials/
 https://deweydex.github.io/WADB_Tutorials/#templates
@@ -87,6 +89,7 @@ https://github.com/deweydex/
 https://glitch.com/
 https://gohugo.io/
 https://greenteapress.com/wp/think-python-2e/
+https://greenteapress.com/wp/think-python-3rd-edition/
 https://inventwithpython.com
 https://iscontent.byu.edu/Canvas/MATH-110/MATH-110-M004/HTML/0_PlacementH5P.html
 https://jsaaron.carrd.co/#
@@ -115,13 +118,17 @@ https://stackedit.io/
 https://stackedit.io/app#
 https://teams.microsoft.com/l/channel/19%3AjGlwVqtAl-zrkb3tZFkhPe2mOYo7AURkFylvSCjgvCk1%40thread.tacv2/General?groupId=a5fa6cb9-195f-4b5c-a8c5-71df0a40e9a6&tenantId=3ed6c8f5-4c16-44ad-9eed-60f851834a84
 https://teams.microsoft.com/l/team/19%3AcF-aggvE1Scbs1qqZbYJ36OmioVRbS3GKNzFLfgv7oI1%40thread.tacv2/conversations?groupId=07c64daa-a9bf-4733-acb7-5921b3833eeb&tenantId=3ed6c8f5-4c16-44ad-9eed-60f851834a84
+https://thecrashcourse.com/topic/literature/
 https://thecrashcourse.com/topic/medialiteracy/
 https://timothyprojectgig.github.io/JB_Math_Textbook/ProbStat/ProbIntro/prob.html
+https://tutorial.math.lamar.edu
 https://unsplash.com
 https://v2.scrimba.com/learn-typescript-c03c
+https://www.3blue1brown.com
 https://www.3blue1brown.com/topics/linear-algebra
 https://www.3blue1brown.com/topics/neural-networks
 https://www.audiolabs-erlangen.de/resources/MIR/PCP/PCP_06_complex.html
+https://www.codecademy.com
 https://www.codecademy.com/article/csharp-go-off-platform
 https://www.codecademy.com/article/what-is-net
 https://www.codecademy.com/catalog/language/html-css
@@ -133,6 +140,7 @@ https://www.drawio.com
 https://www.edupyter.net/en/
 https://www.eff.org/
 https://www.eff.org/issues
+https://www.freecodecamp.org
 https://www.freecodecamp.org/
 https://www.freecodecamp.org/learn/college-algebra-with-python/#build-three-math-games-project
 https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/
@@ -146,8 +154,11 @@ https://www.freecodecamp.org/news/unit-circle-chart-and-trig-calculator/
 https://www.inquirygroup.org
 https://www.jetbrains.com/pycharm/
 https://www.kaggle.com/learn/intro-to-machine-learning
+https://www.keithquille.com
+https://www.khanacademy.org
 https://www.khanacademy.org/join/BDBED472
 https://www.khanacademy.org/join/MAR9BPAP
+https://www.khanacademy.org/math
 https://www.khanacademy.org/python-program/map-making-group-coding/4910017609646080
 https://www.khanacademy.org/python-program/reverse/6465531776253952
 https://www.khanacademy.org/python-program/slicing/4824728708497408
@@ -173,6 +184,9 @@ https://www.w3.org/Style/CSS/specs.en.html
 https://www.w3schools.com/sql/
 https://www.webwise.ie/teachers/digital_literacy/
 https://www.wikimedia.org/
+https://www.youtube.com/@3blue1brown
+https://www.youtube.com/@crashcourse
+https://www.youtube.com/@theartassignment
 https://www.youtube.com/playlist?list=PLdo4fOcmZ0oULFjxrOagaERVAMbmG20Xe
 https://www.youtube.com/playlist?list=PLiaHhY2iBX9g6KIvZ_703G3KJXapKkNaF
 https://www.youtube.com/watch?v=8idr1WZ1A7Q

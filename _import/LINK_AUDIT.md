@@ -8,8 +8,8 @@ worksheet templates on purpose.
 
 | Verdict | Count |
 |---|---|
-| OK | 314 |
-| UNVERIFIED | 355 |
+| OK | 325 |
+| UNVERIFIED | 378 |
 | PLACEHOLDER | 0 |
 | BROKEN | 0 |
 
@@ -17,13 +17,33 @@ worksheet templates on purpose.
 
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
+| UNVERIFIED | Keith Quille | `https://www.keithquille.com` | external host unreachable from the sandbox |
+| OK | Current Projects | `/Current%20Projects` |  |
 | OK | Teaching Materials | `/Teaching%20Materials` |  |
 | OK | student | `/Teaching%20Materials#for-students` |  |
 | OK | teacher | `/Teaching%20Materials#for-teachers-and-educators` |  |
 | OK | employer | `/Teaching%20Materials#for-employers` |  |
 | OK | parent | `/Teaching%20Materials#for-parents` |  |
 | OK | Resources & Recommendations | `/Resources%20and%20Recommendations` |  |
-| OK | Email me at DCFE | `mailto:joshuaaaron@dcfe.ie` |  |
+| OK | joshuaaaron@dcfe.ie | `mailto:joshuaaaron@dcfe.ie` |  |
+
+## Current Projects.md
+
+| Verdict | Link text | Target | Note |
+|---|---|---|---|
+| UNVERIFIED | GitHub | `https://github.com/deweydex` |  |
+| OK | dewlab | `https://github.com/deweydex/dewlab` | repository exists |
+| UNVERIFIED | Keith Quille | `https://www.keithquille.com` | external host unreachable from the sandbox |
+| OK | From ML to AI for Teachers | `https://github.com/deweydex/FromMLtoAI` | repository exists |
+| OK | AI Workshops for Teachers | `/Current%20Teaching/AI%20Workshops%20for%20Teachers` |  |
+| OK | Coding with AI | `https://github.com/deweydex/2plus1Coding` | repository exists |
+| UNVERIFIED | deweydex.github.io/2plus1Coding | `https://deweydex.github.io/2plus1Coding` | external host unreachable from the sandbox |
+| OK | everlearning | `https://github.com/deweydex/everlearning` | repository exists |
+| OK | Mathematics | `https://github.com/deweydex/Mathematics` | repository exists |
+| OK | WADB Tutorials | `https://github.com/deweydex/WADB_Tutorials` | repository exists |
+| UNVERIFIED | deweydex.github.io/WADB_Tutorials | `https://deweydex.github.io/WADB_Tutorials/` | external host unreachable from the sandbox |
+| OK | HTML, CSS and SQL Interactive Tutorial | `https://github.com/deweydex/HTML-CSS-SQL-JS` | repository exists |
+| OK | FAQ | `https://github.com/deweydex/FAQ` | repository exists |
 
 ## Current Teaching/AI Workshops for Teachers/Non-Technical AI Workshops for Teachers/2 Tool Limitations/index.md
 
@@ -361,7 +381,25 @@ worksheet templates on purpose.
 
 | Verdict | Link text | Target | Note |
 |---|---|---|---|
+| UNVERIFIED | Codecademy | `https://www.codecademy.com` | external host unreachable from the sandbox |
+| UNVERIFIED | Brilliant | `https://brilliant.org` | external host unreachable from the sandbox |
+| UNVERIFIED | Khan Academy | `https://www.khanacademy.org` | external host unreachable from the sandbox |
+| UNVERIFIED | freeCodeCamp | `https://www.freecodecamp.org` | external host unreachable from the sandbox |
+| UNVERIFIED | Think Python | `https://greenteapress.com/wp/think-python-3rd-edition/` | external host unreachable from the sandbox |
+| UNVERIFIED | Python for Everybody | `https://www.py4e.com/book` | external host unreachable from the sandbox |
+| UNVERIFIED | Invent with Python | `https://inventwithpython.com` | external host unreachable from the sandbox |
+| UNVERIFIED | The Odin Project | `https://www.theodinproject.com/paths/foundations/courses/foundations` | external host unreachable from the sandbox |
+| UNVERIFIED | MDN Web Docs | `https://developer.mozilla.org/en-US/docs/Learn_web_development` | external host unreachable from the sandbox |
 | UNVERIFIED | Art of Problem Solving books | `https://artofproblemsolving.com/store/list/all-products` | external host unreachable from the sandbox |
+| UNVERIFIED | 3Blue1Brown | `https://www.3blue1brown.com` | external host unreachable from the sandbox |
+| UNVERIFIED | Khan Academy | `https://www.khanacademy.org/math` | external host unreachable from the sandbox |
+| UNVERIFIED | Paul's Online Math Notes | `https://tutorial.math.lamar.edu` | external host unreachable from the sandbox |
+| UNVERIFIED | Brilliant | `https://brilliant.org` | external host unreachable from the sandbox |
+| UNVERIFIED | The Art Assignment | `https://www.youtube.com/@theartassignment` | external host unreachable from the sandbox |
+| UNVERIFIED | Crash Course Literature | `https://thecrashcourse.com/topic/literature/` | external host unreachable from the sandbox |
+| UNVERIFIED | 3Blue1Brown | `https://www.youtube.com/@3blue1brown` | external host unreachable from the sandbox |
+| UNVERIFIED | Crash Course | `https://www.youtube.com/@crashcourse` | external host unreachable from the sandbox |
+| UNVERIFIED | The Art Assignment | `https://www.youtube.com/@theartassignment` | external host unreachable from the sandbox |
 
 ## Teaching Materials/Assorted Teaching Materials.md
 
@@ -371,6 +409,12 @@ worksheet templates on purpose.
 | UNVERIFIED | Fun With Functions (11th–12th Grade) | `https://drive.google.com/drive/folders/16Bz6coMwbUoDRcGf0YDKx-LD3TGtUxeT?usp=sharing` | external host unreachable from the sandbox |
 | UNVERIFIED | Evaluation of the Impact of Comics on Exam Performance: Link | `https://drive.google.com/file/d/1i0CFLTwQjzXxcDtNhcS9xcjyuB5SinQK/view?usp=share_link` | external host unreachable from the sandbox |
 | UNVERIFIED | Socio-Emotional Learning in STEM Contexts: Link to Workshops | `https://jsaaron.carrd.co/#` | external host unreachable from the sandbox |
+
+## Teaching Materials/Guides/How I Think About Teaching.md
+
+| Verdict | Link text | Target | Note |
+|---|---|---|---|
+| OK | Resources and Recommendations | `/Resources%20and%20Recommendations` |  |
 
 ## Teaching Materials/Guides/How to Learn Programming/index.md
 
