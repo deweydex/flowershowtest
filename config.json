@@ -70,5 +70,7 @@
       "from": "/Short-form+Guides",
       "to": "/Teaching+Materials/Guides"
     }
-  ]
+  ],
+  "logo": "assets/logo.png",
+  "favicon": "/assets/favicon.png"
 }
